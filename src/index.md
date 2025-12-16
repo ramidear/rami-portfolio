@@ -15,7 +15,7 @@ theme: dashboard
     <h2>Project Highlights</h2>
     <p>Some of my favorite projects across previous experiences.</p>
     <br>
-    <a href="/marketing/">View Case Study →</a>
+    <a href="/marketing/">Start Here →</a>
   </div>
 
   <div class="card">
