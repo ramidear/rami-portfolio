@@ -1,13 +1,22 @@
 ---
 theme: dashboard
 title: Los Lobos Track Club
-toc: false
+toc: true
 ---
 
-# Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
+<div style="width: 100%; max-width: 100%; margin-bottom: 2rem;">
+  
+  <h1 style="font-size: 2.5rem; margin-bottom: 1rem; line-height: 1.1;">
+    Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
+  </h1>
 
-As a Co-Founder of Los Lobos Track Club, I am always seeking ways for our club to stand out amongst other high performance teams. To address a cause that affects several of our own, I decided ahead of the 2025 Hood to Coast Relays that our team would take on the challenge of competing as a **#FINISHCANCER fundraising team.** We ran our way to **8th place for the Men's Open Division** while raising **$9,000+ for the Providence Cancer Institute**.
+  <p style="font-size: 1.15rem; line-height: 1.6; max-width: none;">
+    As Co-founder of Los Lobos Track Club, I am always seeking ways for our club to stand out amongst other high performance teams. To address a cause that affects several of our own, I decided ahead of the 2025 Hood to Coast Relays that our team would take on the challenge of competing as a <strong>#FINISHCANCER fundraising team.</strong> We ran our way to <strong>8th place for the Men's Open Division</strong> while raising <strong>$9,000+ for the Providence Cancer Institute</strong>.
+  </p>
 
+</div>
+<style>
+  /* ... The rest of your existing style code ... */
 <style>
   /* 1. CONTAINER */
   .carousel-container {
