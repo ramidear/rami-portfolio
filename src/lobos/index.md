@@ -204,7 +204,7 @@ toc: false
 
   <div class="card" style="grid-column: span 2;">
     <h2>Sponsors & Partners</h2>
-    <div style="max-width: 100%;">
+    <div style="max-width: 200%;">
       <ul>
         <li>
               <strong>Van Door Sponsors:</strong> <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team). 
