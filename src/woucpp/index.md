@@ -1,7 +1,7 @@
 ---
 theme: dashboard
 title: WOU Center for Professional Pathways
-toc: false
+toc: true
 ---
 
 # WOU Center for Professional Pathways: Incentivizing Instagram Follower Engagement
