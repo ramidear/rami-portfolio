@@ -4,8 +4,8 @@ theme: dashboard
 toc: false
 ---
 
-<div class="hero" style="background: linear-gradient(180deg, #e11b10ff 0%, #5c0d09ff 100%); padding: 4rem 2rem; text-align: center;">
-  <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Rami Dear</h1>
+<div class="hero" style="background: linear-gradient(180deg, #e11b10ff 0%, #5c0d09ff 100%); padding: 4rem 2rem;>
+  <h1 style="font-size: 3rem; margin-bottom: 0.5rem; justify-content: center;">Rami Dear</h1>
   <p style="font-size: 1.5rem; color: #000000ff; max-width: 800px; margin: 0 auto;">
     MBA Candidate. Marketing Strategist. Collegiate Coach.
   </p>
