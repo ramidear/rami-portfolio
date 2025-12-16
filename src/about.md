@@ -17,24 +17,21 @@ toc: false
 <div class="grid grid-cols-2" style="margin-top: 2rem;">
 
   <div class="card">
-    <h2>The Philosophy: "Rationale & Results"</h2>
+    <h3>The Philosophy: "Rationale & Results"</h3>
     <p>Whether I am developing a marketing campaign or training an athlete, my philosophy remains the same: <strong>trust is built through transparency and data.</strong></p>
     <p>As an <strong>Associate Head Cross Country Coach</strong>, I earn the trust of my athletes by explaining the "rationale of their plans." I bring this same transparency to marketing strategy.</p>
   </div>
 
   <div class="card">
-    <h2>Professional Impact</h2>
+    <h3>Professional Impact</h3>
     
-    ### Marion Berries Baseball Club
-    *Ticket Sales & Promotions Intern (2025)*
-    
-    Collaborated to distribute over **6,000 sold Berry Passes**. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.
+    <h4 style="margin-top: 1rem; color: #666;">Marion Berries Baseball Club</h4>
+    <p><em>Ticket Sales & Promotions Intern (2025)</em></p>
+    <p>Collaborated to distribute over <strong>6,000 sold Berry Passes</strong>. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.</p>
 
-    ### Education
-    **Willamette University MBA** (Expected 2026)
-    
-    **Western Oregon University** (2024)
-    *Summa Cum Laude (4.0 GPA)*
+    <h4 style="margin-top: 1rem; color: #666;">Education</h4>
+    <p><strong>Willamette University MBA</strong> (Expected 2026)</p>
+    <p><strong>Western Oregon University</strong> (2024)<br><em>Summa Cum Laude (4.0 GPA)</em></p>
   </div>
 
 </div>
