@@ -4,7 +4,7 @@ title: Marion Berries Campaign Analysis
 toc: false
 ---
 
-# ⚾ Marion Berries: Promotional ROI Analysis
+# Marion Berries: Promotional ROI Analysis
 
 During my internship, I helped distribute over **6,000 Berry Passes**.
 
