@@ -187,12 +187,12 @@ toc: false
   
   <div class="card"> 
     <h2>Strategy</h2> 
-    <p>While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> 
+    <p style="max-width: none;">While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> 
   </div> 
 
   <div class="card"> 
     <h2>Tools Used</h2> 
-    <ul> 
+    <ul style="max-width: none;"> 
       <li>
          <strong>Creative:</strong> <strong>Canva</strong> and <strong>Adobe Creative Cloud (Photoshop and Illustrator)</strong> were used often to create graphics used for social media, promotional materials, and mock-ups for uniforms and van door signage.
       </li>
@@ -202,18 +202,34 @@ toc: false
     </ul>
   </div> 
 
-  <div class="card" style="grid-column: span 2;">
-    <h2>Sponsors & Partners</h2>
-    <div style="max-width: 200%;">
-      <ul>
-        <li>
-              <strong>Van Door Sponsors:</strong> <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team). 
-        </li> 
-        <li style="margin-top: 10px;">
-        <strong>Partners:</strong> <strong>Anytime Fitness Independence</strong>, <strong>Eight Lane Running Company</strong>, <strong>Marion Berries Baseball</strong>, and <strong>REVOLVR Menswear</strong> were drawn to our cause and were incredibly helpful in achieving our mission. Anytime Fitness took the time to <a href="https://www.facebook.com/reel/737930685664997" target="_blank">interview me about my club and our involvement with the #FINISHCANCER campaign</a>, and used this interview to blast our fundraiser on their socials in the build up to race day. Eight Lane Running Company helped us by producing our uniforms at a deep discount, so that the costs we would save on uniforms could go directly back into the fundraiser. <strong>Marion Berries Baseball </strong> worked with us to host three 50/50 fundraising raffles at their games, which brought in nearly <strong>$800</strong> to our fundraiser, while leaving a positive impact on the winning fans. Lastly, REVOLVR Menswear donated a $75 Gift Card for us to raffle off, which generated about another <strong>$400</strong> of donations.
-        </li>
-      </ul>
-    </div>
+  <div class="card">
+    <h2>Van Door Sponsors</h2>
+    <p style="max-width: none;">
+      <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team).
+    </p>
   </div>
+
+  <div class="card">
+    <h2>Partners</h2>
+    <p style="max-width: none;">
+      <strong>Anytime Fitness Independence</strong>, <strong>Eight Lane Running Company</strong>, <strong>Marion Berries Baseball</strong>, and <strong>REVOLVR Menswear</strong> were drawn to our cause and were incredibly helpful in achieving our mission. 
+    </p>
+    <ul style="max-width: none; margin-top: 10px;">
+      <li>
+        <strong>Anytime Fitness</strong> took the time to <a href="https://www.facebook.com/reel/737930685664997" target="_blank">interview me about my club and the #FINISHCANCER campaign</a> to blast our fundraiser on their socials.
+      </li>
+      <li>
+        <strong>Eight Lane Running Company</strong> produced our uniforms at a deep discount, so costs saved could go directly to the fundraiser.
+      </li>
+      <li>
+        <strong>Marion Berries Baseball</strong> hosted three 50/50 fundraising raffles at their games, bringing in nearly <strong>$800</strong>.
+      </li>
+      <li>
+        <strong>REVOLVR Menswear</strong> donated a $75 Gift Card for us to raffle off, generating another <strong>$400</strong>.
+      </li>
+    </ul>
+  </div>
+
+</div>
 
 </div>
