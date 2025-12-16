@@ -7,75 +7,137 @@ toc: false
 # Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
 
 <style>
-  .slideshow-container {
+  /* 1. CONTAINER */
+  .carousel-container {
     position: relative;
     width: 100%;
-    height: 400px; /* Adjust height as needed */
+    aspect-ratio: 16 / 9; /* Sets the shape of the window */
+    margin: 0 auto;
     overflow: hidden;
-    border-radius: 8px; /* Optional: rounds the corners */
+    border-radius: 8px;
+    background-color: #333; /* Dark background looks best for mixed image sizes */
   }
-  
-  .slide {
-    position: absolute;
-    top: 0;
-    left: 0;
+
+  /* 2. SLIDES */
+  .carousel-slide {
+    display: none;
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Ensures image fills the box without stretching */
-    opacity: 0;
-    transition: opacity 1s ease-in-out; /* The fade speed */
   }
-  
-  .slide.active {
-    opacity: 1;
+
+  .carousel-slide.active {
+    display: block;
+    animation: fadeEffect 0.5s;
+  }
+
+  .carousel-slide img {
+    width: 100%;
+    height: 100%;
+    /* 'contain' ensures the whole image is seen without cropping */
+    object-fit: contain; 
+  }
+
+  /* 3. BUTTONS */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    background-color: rgba(0,0,0,0.3);
+    text-decoration: none;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  @keyframes fadeEffect {
+    from {opacity: .4} 
+    to {opacity: 1}
   }
 </style>
 
-<div class="slideshow-container">
-  <img src="I68A5633.jpg" class="slide active" alt="Close Up 50/50 Raffle">
-  
-  <img src="I68A5635.jpg" class="slide" alt="50/50 Raffle Table">
-  
-  <img src="IMG_5746.png" class="slide" alt="Team HTC Finish">
-  
-  <img src="IMG_1753.jpeg" class="slide" alt="Northwest Primary Care Van Sponsor">
+<div class="carousel-container">
 
-   <img src="IMG_1754.jpeg" class="slide" alt="Cascade Stems Van Sponsor">
-  
-  <img src="IMG_4781.PNG" class="slide" alt="Van Sponsorship Catalog">
+  <div class="carousel-slide active">
+    <img src="I68A5633.jpg" alt="Close Up 50/50 Raffle">
+  </div>
 
-   <img src="IMG_5367.PNG" class="slide" alt="Collaboration Uniforms with Eight Lane Running Company">
-  
-  <img src="IMG_5700.PNG" class="slide" alt="Our Fundraising Page">
+  <div class="carousel-slide">
+    <img src="I68A5635.jpg" alt="50/50 Raffle Table">
+  </div>
 
-  <img src="IMG_5701.PNG" class="slide" alt="My Personal Fundraising Page">
+  <div class="carousel-slide">
+    <img src="IMG_5746.png" alt="Team HTC Finish">
+  </div>
 
-  <img src="IMG_7954.jpeg" class="slide" alt="HTC Photo Finish">
+  <div class="carousel-slide">
+    <img src="IMG_1753.jpeg" alt="Northwest Primary Care Van Sponsor">
+  </div>
 
+  <div class="carousel-slide">
+    <img src="IMG_1754.jpeg" alt="Cascade Stems Van Sponsor">
+  </div>
 
+  <div class="carousel-slide">
+    <img src="IMG_4781.PNG" alt="Van Sponsorship Catalog">
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_5367.PNG" alt="Collaboration Uniforms with Eight Lane Running Company">
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_5700.PNG" alt="Our Fundraising Page">
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_5701.PNG" alt="My Personal Fundraising Page">
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_7954.jpeg" alt="HTC Photo Finish">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
 </div>
 
 <script>
-  // Wait for the content to load
-  document.addEventListener("DOMContentLoaded", function() {
-    let currentSlide = 0;
-    const slides = document.querySelectorAll('.slide');
-    const totalSlides = slides.length;
+  let slideIndex = 1;
+  
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
 
-    // Change image every 3000 milliseconds (3 seconds)
-    setInterval(() => {
-      // Remove 'active' class from current image
-      slides[currentSlide].classList.remove('active');
-      
-      // Calculate the next image index
-      currentSlide = (currentSlide + 1) % totalSlides;
-      
-      // Add 'active' class to the new image
-      slides[currentSlide].classList.add('active');
-    }, 3000); 
-  });
-</script>
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("carousel-slide");
+    
+    if (n > slides.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = slides.length}
+    
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+      slides[i].classList.remove("active");
+    }
+    
+    slides[slideIndex-1].style.display = "block";  
+    slides[slideIndex-1].classList.add("
 
 During my internship, I helped distribute over **6,000 Berry Passes**.
 
