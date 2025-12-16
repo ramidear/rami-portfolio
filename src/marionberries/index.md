@@ -1,7 +1,7 @@
 ---
 theme: dashboard
 title: Marion Berries Baseball Club
-toc: true
+toc: false
 ---
 
 # Marion Berries Baseball Club: Social Media Marketing and Promotions

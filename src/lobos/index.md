@@ -1,7 +1,7 @@
 ---
 theme: dashboard
 title: Los Lobos Track Club
-toc: true
+toc: false
 ---
 
 # Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
