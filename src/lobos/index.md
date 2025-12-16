@@ -137,7 +137,9 @@ toc: false
     }
     
     slides[slideIndex-1].style.display = "block";  
-    slides[slideIndex-1].classList.add("
+    slides[slideIndex-1].classList.add("active");
+  }
+</script>
 
 During my internship, I helped distribute over **6,000 Berry Passes**.
 
