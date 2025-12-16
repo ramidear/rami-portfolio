@@ -6,79 +6,7 @@ toc: true
 
 # Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
 
-
 As Co-founder of Los Lobos Track Club, I am always seeking ways for our club to stand out amongst other high performance teams. To address a cause that affects several of our own, I decided ahead of the 2025 Hood to Coast Relays that our team would take on the challenge of competing as a **#FINISHCANCER fundraising team.** We ran our way to **8th place for the Men's Open Division** while raising **$9,000+ for the Providence Cancer Institute**.
-
-<style>
-  /* 1. CONTAINER */
-  .carousel-container {
-    position: relative;
-    width: 100%;
-    aspect-ratio: 16 / 9; /* Sets the shape of the window */
-    margin: 0 auto;
-    overflow: hidden;
-    border-radius: 8px;
-    background-color: #333; /* Dark background looks best for mixed image sizes */
-  }
-
-  /* 2. SLIDES */
-  .carousel-slide {
-    display: none;
-    width: 100%;
-    height: 100%;
-  }
-
-  .carousel-slide.active {
-    display: block;
-    animation: fadeEffect 0.5s;
-  }
-
-  .carousel-slide img {
-    width: 100%;
-    height: 100%;
-    /* 'contain' ensures the whole image is seen without cropping */
-    object-fit: contain; 
-  }
-
-  /* 3. BUTTONS */
-  .prev, .next {
-    cursor: pointer;
-    position: absolute;
-    top: 50%;
-    width: auto;
-    margin-top: -22px;
-    padding: 16px;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    transition: 0.6s ease;
-    border-radius: 0 3px 3px 0;
-    user-select: none;
-    background-color: rgba(0,0,0,0.3);
-    text-decoration: none;
-  }
-
-  .next {
-    right: 0;
-    border-radius: 3px 0 0 3px;
-  }
-
-  .prev:hover, .next:hover {
-    background-color: rgba(0,0,0,0.8);
-  }
-
-  @keyframes fadeEffect {
-    from {opacity: .4} 
-    to {opacity: 1}
-  }
-Yes, we can absolutely do that.
-
-Since the layout is using object-fit: contain (where there might be empty black space around the image) and aspect-ratio (a fixed box size), the best way to display captions is to overlay them at the bottom of the frame.
-
-I have added a translucent black bar at the bottom of each slide that will display the text found in your alt tags.
-
-Copy and Paste the entire block below:
-HTML
 
 <style>
   /* 1. CONTAINER */
@@ -97,7 +25,7 @@ HTML
     display: none;
     width: 100%;
     height: 100%;
-    position: relative; /* Needed for positioning the caption */
+    position: relative;
   }
 
   .carousel-slide.active {
@@ -111,17 +39,17 @@ HTML
     object-fit: contain; 
   }
 
-  /* 3. CAPTIONS (New Addition) */
+  /* 3. CAPTIONS */
   .caption-text {
     color: #f2f2f2;
-    font-size: 12px;
-    padding: 1px 3px;
+    font-size: 14px; /* Increased slightly for readability */
+    padding: 8px 12px;
     position: absolute;
     bottom: 0;
     width: 100%;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
-    box-sizing: border-box; /* Ensures padding doesn't break width */
+    background-color: rgba(0, 0, 0, 0.8);
+    box-sizing: border-box;
     font-family: sans-serif;
   }
 
@@ -141,7 +69,7 @@ HTML
     user-select: none;
     background-color: rgba(0,0,0,0.3);
     text-decoration: none;
-    z-index: 2; /* Ensures buttons sit above the image */
+    z-index: 2;
   }
 
   .next {
@@ -240,4 +168,23 @@ HTML
   }
 </script>
 
-<div class="grid grid-cols-2"> <div class="card"> <h2>Strategy</h2> <p>While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while  <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> </div> <div class="card"> <h2>Sponsors & Partners</h2> <ul> <li><strong>Van Door Sponsors:</strong> <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team). </li> <li><strong>Partners:</strong> While uninterested in sponsoring via van door signage, <strong>Anytime Fitness Independence</strong> and <strong>Eight Lane Running Company</strong> were drawn to our cause and were incredibly helpful in the achieving our mission. Anytime Fitness took the time to interview me about my club and our involvement with the #FINISHCANCER campaign (https://www.facebook.com/reel/737930685664997), and used this interview to blast our fundraiser on their socials in the build up to race day. Eight Lane Running Company helped us by producing our uniforms at a deep discount, so that the costs we would save on uniforms could go directly back into the fundraiser. </li>
+<div class="grid grid-cols-2"> 
+  
+  <div class="card"> 
+    <h2>Strategy</h2> 
+    <p>While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> 
+  </div> 
+
+  <div class="card"> 
+    <h2>Sponsors & Partners</h2> 
+    <ul> 
+      <li>
+        <strong>Van Door Sponsors:</strong> <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team). 
+      </li> 
+      <li style="margin-top: 10px;">
+        <strong>Partners:</strong> While uninterested in sponsoring via van door signage, <strong>Anytime Fitness Independence</strong> and <strong>Eight Lane Running Company</strong> were drawn to our cause and were incredibly helpful in achieving our mission. Anytime Fitness took the time to <a href="https://www.facebook.com/reel/737930685664997" target="_blank">interview me about my club and our involvement with the #FINISHCANCER campaign</a>, and used this interview to blast our fundraiser on their socials in the build up to race day. Eight Lane Running Company helped us by producing our uniforms at a deep discount, so that the costs we would save on uniforms could go directly back into the fundraiser. 
+      </li> 
+    </ul>
+  </div> 
+
+</div>
