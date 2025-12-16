@@ -15,6 +15,7 @@ toc: false
 </div>
 
 <div class="grid grid-cols-2" style="margin-top: 2rem;">
+
   <div class="card">
     <h2>The Philosophy: "Rationale & Results"</h2>
     <p>Whether I am developing a marketing campaign or training an athlete, my philosophy remains the same: <strong>trust is built through transparency and data.</strong></p>
@@ -23,12 +24,15 @@ toc: false
 
   <div class="card">
     <h2>Professional Impact</h2>
-    <h3 style="margin-top: 1rem; color: var(--theme-blue);">Marion Berries Baseball Club</h3>
+    
+    <h3>Marion Berries Baseball Club</h3>
     <p><em>Ticket Sales & Promotions Intern (2025)</em></p>
     <p>Collaborated to distribute over <strong>6,000 sold Berry Passes</strong>. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.</p>
 
-    <h3 style="margin-top: 1.5rem; color: var(--theme-blue);">Education</h3>
+    <h3>Education</h3>
     <p><strong>Willamette University MBA</strong> (Expected 2026)</p>
-    <p><strong>Western Oregon University</strong> (2024) - <em>Summa Cum Laude (4.0 GPA)</em></p>
+    <p><strong>Western Oregon University</strong> (2024)</p>
+    <p><em>Summa Cum Laude (4.0 GPA)</em></p>
   </div>
+
 </div>
