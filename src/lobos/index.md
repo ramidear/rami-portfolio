@@ -98,7 +98,7 @@ toc: false
   }
 
   .card {
-  padding: 1.5rem !important; /* Default is often larger */
+  padding: -1.5rem !important; /* Default is often larger */
 }
 </style>
 
