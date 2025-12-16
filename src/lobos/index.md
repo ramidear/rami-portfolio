@@ -96,6 +96,10 @@ toc: false
     from {opacity: .4} 
     to {opacity: 1}
   }
+
+  .card {
+  padding: 1.5rem !important; /* Default is often larger */
+}
 </style>
 
 <div class="carousel-container">
