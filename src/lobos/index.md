@@ -36,7 +36,7 @@ toc: false
   
   <img src="I68A5635.jpg" class="slide" alt="50/50 Raffle Table">
   
-  <img src="IMG_5746.PNG" class="slide" alt="Team HTC Finish">
+  <img src="IMG_5746.png" class="slide" alt="Team HTC Finish">
   
   <img src="IMG_1753.jpeg" class="slide" alt="Northwest Primary Care Van Sponsor">
 
