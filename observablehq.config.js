@@ -23,6 +23,6 @@ export default {
     }
   ],
 
-  footer: "Built with Observable Framework & Cloudflare Pages",
+  footer: "Western Oregon University BS '24 | Willamette University MBA '26",
   toc: true 
 };
