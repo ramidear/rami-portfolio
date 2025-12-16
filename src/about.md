@@ -24,11 +24,9 @@ toc: false
 
   <div class="card">
     <h3>Professional Impact</h3>
-    
     <h4 style="margin-top: 1rem; color: #666;">Marion Berries Baseball Club</h4>
     <p><em>Ticket Sales & Promotions Intern (2025)</em></p>
     <p>Collaborated to distribute over <strong>6,000 sold Berry Passes</strong>. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.</p>
-
     <h4 style="margin-top: 1rem; color: #666;">Education</h4>
     <p><strong>Willamette University MBA</strong> (Expected 2026)</p>
     <p><strong>Western Oregon University</strong> (2024)<br><em>Summa Cum Laude (4.0 GPA)</em></p>
