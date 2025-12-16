@@ -12,22 +12,22 @@ theme: dashboard
 
 <div class="grid grid-cols-3">
   <div class="card">
-    <h2>Sports Analytics</h2>
-    <p>Visualizing the distribution of 6,000+ passes for the Marion Berries Baseball Club.</p>
+    <h2>Project Highlights</h2>
+    <p>Some of my favorite projects across previous experiences.</p>
     <br>
     <a href="/marketing/">View Case Study →</a>
   </div>
 
   <div class="card">
     <h2>About Me</h2>
-    <p>Summa Cum Laude graduate, Associate Head Coach, and MBA Candidate.</p>
+    <p>Co-Founder of Los Lobos Track Club; Head Cross Country Coach of Clackamas Community College; Willamette MBA '26.</p>
     <br>
-    <a href="/about">View Bio & Resume →</a>
+    <a href="/about">Learn More →</a>
   </div>
 
   <div class="card">
     <h2>Contact</h2>
-    <p>Please contact me here and I will follow up as soon as possible.</p>
+    <p>Please contact me here and I will follow up with you as soon as possible.</p>
     <br>
     <a href="mailto:ramiraeddear@gmail.com">Get in Touch →</a>
   </div>
