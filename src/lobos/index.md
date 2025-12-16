@@ -1,7 +1,7 @@
 ---
 theme: dashboard
 title: Los Lobos Track Club
-toc: true
+toc: false
 ---
 
 <div style="width: 100%; max-width: 100%; margin-bottom: 2rem;">
