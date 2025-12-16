@@ -6,6 +6,9 @@ toc: false
 
 # Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
 
+
+As Co-founder of Los Lobos Track Club, I am always seeking ways for our club to stand out amongst other high performance teams. To address a cause that affects several of our own, I decided ahead of the 2025 Hood to Coast Relays that our team would take on the challenge of competing as a **#FINISHCANCER fundraising team.** We ran our way to **8th place for the Men's Open Division** while raising **$9,000+ for the Providence Cancer Institute**.
+
 <style>
   /* 1. CONTAINER */
   .carousel-container {
@@ -237,6 +240,4 @@ HTML
   }
 </script>
 
-During my internship, I helped distribute over **6,000 Berry Passes**.
-
-<div class="grid grid-cols-2"> <div class="card"> <h2>Strategy</h2> <p>My role involved designing <strong>Instagram Reels</strong> and writing <strong>Radio Ad Scripts</strong>. The data suggests that <em>In-Game Events</em> and <em>Social Media</em> outperformed traditional Radio spots.</p> </div> <div class="card"> <h2>Tools Used</h2> <ul> <li><strong>Data Analysis:</strong> JASP & Tableau</li> <li><strong>Creative:</strong> Adobe CC & Canva</li> <li><strong>Execution:</strong> Meta Business Suite</li> </ul> </div> </div>
+<div class="grid grid-cols-2"> <div class="card"> <h2>Strategy</h2> <p>While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while  <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> </div> <div class="card"> <h2>Sponsors & Partners</h2> <ul> <li><strong>Van Door Sponsors:</strong> <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team). </li> <li><strong>Partners:</strong> While uninterested in sponsoring via van door signage, <strong>Anytime Fitness Independence</strong> and <strong>Eight Lane Running Company</strong> were drawn to our cause and were incredibly helpful in the achieving our mission. Anytime Fitness took the time to interview me about my club and our involvement with the #FINISHCANCER campaign (https://www.facebook.com/reel/737930685664997), and used this interview to blast our fundraiser on their socials in the build up to race day. Eight Lane Running Company helped us by producing our uniforms at a deep discount, so that the costs we would save on uniforms could go directly back into the fundraiser. </li>
