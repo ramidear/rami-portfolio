@@ -26,9 +26,17 @@ theme: dashboard
   </div>
 
   <div class="card">
-    <h2>Looking to Contact Me?</h2>
-    <p>Contact me here and I will follow up as soon as possible.</p>
+    <h2>Contact</h2>
+    <p>Please contact me here and I will follow up as soon as possible.</p>
     <br>
     <a href="mailto:ramiraeddear@gmail.com">Get in Touch →</a>
+  </div>
+</div>
+
+<div class="card">
+    <h2>Resume</h2>
+    <p>Click below for a downloadable copy of my resume.</p>
+    <br>
+    <a href="https://drive.google.com/uc?export=download&id=1de4pRBNPEBFQ6SdV1vDhbdtK2BDojgf7">Download →</a>
   </div>
 </div>
