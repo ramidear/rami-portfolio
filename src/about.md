@@ -4,13 +4,13 @@ theme: dashboard
 toc: false
 ---
 
-<div class="hero" style="background: linear-gradient(180deg, #e11b10ff 0%, #5c0d09ff 100%); padding: 4rem 2rem; text-align: center;">
-  <h1 style="font-size: 3rem; margin-bottom: 0.5rem; justify-content: center;">Rami Dear</h1>
+<div class="hero" style="background: linear-gradient(180deg, #e11b10ff 0%, #5c0d09ff 100%); padding: 4rem 2rem; display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Rami Dear</h1>
   <p style="font-size: 1.5rem; color: #000000ff; max-width: 800px; margin: 0 auto;">
     MBA Candidate. Marketing Strategist. Collegiate Coach.
   </p>
   <div style="font-size: 1.5rem; margin-top: 0.5rem; display: flex; gap: 1rem; justify-content: center;">
-    <a href="https://www.linkedin.com/in/rami-dear-229657218/" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rami-dear-229657218/" target="_blank" style="color: white; text-decoration: underline;">LinkedIn</a>
   </div>
 </div>
 
@@ -25,11 +25,4 @@ toc: false
   <div class="card">
     <h3>Professional Impact</h3>
     <h4 style="margin-top: 1rem; color: #666;">Marion Berries Baseball Club</h4>
-    <p><em>Ticket Sales & Promotions Intern (2025)</em></p>
-    <p>Collaborated to distribute over <strong>6,000 sold Berry Passes</strong>. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.</p>
-    <h4 style="margin-top: 1rem; color: #666;">Education</h4>
-    <p><strong>Willamette University MBA</strong> (Expected 2026)</p>
-    <p><strong>Western Oregon University</strong> (2024)<br><em>Summa Cum Laude (4.0 GPA)</em></p>
-  </div>
-
-</div>
+    <p><em>Ticket Sales & Promotions Intern
