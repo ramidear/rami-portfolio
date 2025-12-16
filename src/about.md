@@ -4,12 +4,12 @@ theme: dashboard
 toc: false
 ---
 
-<div class="hero" style="background: #fdfdfd; padding: 4rem 2rem; border-bottom: 1px solid #eee; text-align: center;">
+<div class="hero" style="background: linear-gradient(180deg, #e11b10ff 0%, #5c0d09ff 100%); padding: 4rem 2rem; text-align: center;">
   <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Rami Dear</h1>
-  <p style="font-size: 1.5rem; color: #666; max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 1.5rem; color: #000000ff; max-width: 800px; margin: 0 auto;">
     MBA Candidate. Marketing Strategist. Collegiate Coach.
   </p>
-  <div style="margin-top: 1.5rem; display: flex; gap: 1rem; justify-content: center;">
+  <div style="font-size: 1.5rem; margin-top: 0.5rem; display: flex; gap: 1rem; justify-content: center;">
     <a href="https://www.linkedin.com/in/rami-dear-229657218/" target="_blank">LinkedIn</a>
   </div>
 </div>
