@@ -1,10 +1,10 @@
 ---
 theme: dashboard
-title: Marion Berries Baseball Club
+title: Los Lobos Track Club
 toc: false
 ---
 
-# Marion Berries Baseball Club: Social Media Marketing and Promotions
+# Los Lobos Track Club: Fundraising $9,100 for the Providence Cancer Institute via the Hood to Coast Relay
 
 During my internship, I helped distribute over **6,000 Berry Passes**.
 

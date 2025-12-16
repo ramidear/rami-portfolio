@@ -14,7 +14,7 @@ export default {
     {
       name: "Portfolio",
       pages: [
-        {name: "Marion Berries Analytics", path: "/marketing/"},
+        {name: "Marion Berries Baseball Club", path: "/marketing/"}, {name: "Los Lobos Track Club", path: "/marketing/"}, {name: "WOU Center for Professional Pathways", path: "/marketing/"},
       ]
     },
     {

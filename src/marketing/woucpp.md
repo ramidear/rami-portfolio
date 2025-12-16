@@ -1,10 +1,10 @@
 ---
 theme: dashboard
-title: Marion Berries Baseball Club
+title: WOU Center for Professional Pathways
 toc: false
 ---
 
-# Marion Berries Baseball Club: Social Media Marketing and Promotions
+# WOU Center for Professional Pathways: Incentivizing Instagram Follower Engagement
 
 During my internship, I helped distribute over **6,000 Berry Passes**.
 
