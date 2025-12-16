@@ -25,14 +25,16 @@ toc: false
   <div class="card">
     <h2>Professional Impact</h2>
     
-    <h3>Marion Berries Baseball Club</h3>
-    <p><em>Ticket Sales & Promotions Intern (2025)</em></p>
-    <p>Collaborated to distribute over <strong>6,000 sold Berry Passes</strong>. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.</p>
+    ### Marion Berries Baseball Club
+    *Ticket Sales & Promotions Intern (2025)*
+    
+    Collaborated to distribute over **6,000 sold Berry Passes**. Role required rapid adaptability, from designing Instagram Reels to drafting radio ad scripts.
 
-    <h3>Education</h3>
-    <p><strong>Willamette University MBA</strong> (Expected 2026)</p>
-    <p><strong>Western Oregon University</strong> (2024)</p>
-    <p><em>Summa Cum Laude (4.0 GPA)</em></p>
+    ### Education
+    **Willamette University MBA** (Expected 2026)
+    
+    **Western Oregon University** (2024)
+    *Summa Cum Laude (4.0 GPA)*
   </div>
 
 </div>
