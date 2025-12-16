@@ -17,20 +17,19 @@ toc: false
 </div>
 
 <style>
-  /* ... The rest of your existing style code ... */
-<style>
-  /* 1. CONTAINER */
+  /* CONTAINER: Fixed aspect ratio (16:9) keeps the frame size constant */
   .carousel-container {
     position: relative;
     width: 100%;
-    aspect-ratio: 16 / 9;
+    max-width: 100%;
+    aspect-ratio: 16 / 9; /* Keeps the box shape identical for every slide */
     margin: 0 auto;
-    overflow: hidden;
+    overflow: hidden; /* Cuts off anything that tries to stick out */
     border-radius: 8px;
-    background-color: #333;
+    background-color: #222; /* Dark grey background for empty space */
   }
 
-  /* 2. SLIDES */
+  /* SLIDES */
   .carousel-slide {
     display: none;
     width: 100%;
@@ -43,16 +42,18 @@ toc: false
     animation: fadeEffect 0.5s;
   }
 
+  /* IMAGES: 'contain' forces the whole image to fit inside the box */
   .carousel-slide img {
     width: 100%;
     height: 100%;
     object-fit: contain; 
+    display: block;
   }
 
-  /* 3. CAPTIONS */
+  /* CAPTIONS */
   .caption-text {
     color: #f2f2f2;
-    font-size: 14px; /* Increased slightly for readability */
+    font-size: 14px;
     padding: 8px 12px;
     position: absolute;
     bottom: 0;
@@ -63,7 +64,7 @@ toc: false
     font-family: sans-serif;
   }
 
-  /* 4. BUTTONS */
+  /* BUTTONS */
   .prev, .next {
     cursor: pointer;
     position: absolute;
@@ -197,7 +198,7 @@ toc: false
     </ul>
   </div> 
 
-<div class="card" style="grid-column: span 2;">
+  <div class="card" style="grid-column: span 2;">
     <h2>Sponsors & Partners</h2>
     <ul>
       <li>
@@ -208,7 +209,5 @@ toc: false
       </li>
     </ul>
   </div>
-
-</div>
 
 </div>
