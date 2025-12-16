@@ -34,7 +34,7 @@ toc: false
 <div class="slideshow-container">
   <img src="I68A5633.jpg" class="slide active" alt="Close Up 50/50 Raffle">
   
-  <img src="I6A5635.jpg" class="slide" alt="50/50 Raffle Table">
+  <img src="I68A5635.jpg" class="slide" alt="50/50 Raffle Table">
   
   <img src="IMG_5746.PNG" class="slide" alt="Team HTC Finish">
   
