@@ -115,7 +115,7 @@ toc: false
   </div>
 
   <div class="carousel-slide">
-    <img src="I68A4654.png" alt="Trick or Treat Night">
+    <img src="I68A4656.jpg" alt="Trick or Treat Night">
     <div class="caption-text">Dressing as Leroy the on-field MC, for "Trick or Treat Night"</div>
   </div>
 
