@@ -120,27 +120,27 @@ toc: false
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_3699.jpeg" alt="Hot Dog Eating Contest">
+    <img src="IMG_3699.jpg" alt="Hot Dog Eating Contest">
     <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_3702.jpeg" alt="Hot Dog Eating Contest">
+    <img src="IMG_3702.jpg" alt="Hot Dog Eating Contest">
     <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_3709.jpeg" alt="Hot Dog Eating Contest">
+    <img src="IMG_3709.jpg" alt="Hot Dog Eating Contest">
     <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_3713.jpeg" alt="Hot Dog Eating Contest">
+    <img src="IMG_3713.jpg" alt="Hot Dog Eating Contest">
     <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_3738.jpeg" alt="Hot Dog Eating Contest">
+    <img src="IMG_3738.jpg" alt="Hot Dog Eating Contest">
     <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
