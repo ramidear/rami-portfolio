@@ -106,22 +106,22 @@ toc: false
 
   <div class="carousel-slide active">
     <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
-    <div class="caption-text">"Pizza in Your Seatza" Photo Credit: Sauce Studio and Design</div>
+    <div class="caption-text">Photo from a WOU CPP LatinX Entrepreneurship Workshop</div>
   </div>
 
   <div class="carousel-slide">
     <img src="woucpp2.jpg" alt="Picture from our Athlete ProConnect">
-    <div class="caption-text">"Dizzy Bat Race" Photo Credit: Sauce Studio and Design</div>
+    <div class="caption-text">"Photo from the WOU CPP Athlete ProConnect Event</div>
   </div>
 
   <div class="carousel-slide">
     <img src="woucpp3.jpg" alt="Gift Card Giveaway">
-    <div class="caption-text">Dressing as Leroy the on-field MC, for "Trick or Treat Night"</div>
+    <div class="caption-text">Graphic advertising a promotional gift card giveaway to incentivize IG followers</div>
   </div>
 
   <div class="carousel-slide">
     <img src="woucpp4.jpg" alt="Graphic Poster for Athlete ProConnect">
-    <div class="caption-text">Our 4th of July Hot Dog Eating Contest</div>
+    <div class="caption-text">Graphic poster/advertisement for the Athlete ProConnect</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
