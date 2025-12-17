@@ -157,17 +157,18 @@ toc: false
   
   <div class="card"> 
     <h2>Strategy</h2> 
-    <p style="max-width: none;">During this internship, I internalized the strategy and philosphies set by the Marion Berries front office, which was to <strong>positively impact the City of Salem and its residents</strong> by offering affordable family fun which leaves them with memories to last them a lifetime. The execution of this strategy involved a mix of activities, such as:
+    <p style="max-width: none;">
+      My primary objective was to lower the barrier to entry for students seeking career advice. I focused on a strategy that <strong>demystified the CPP office</strong>, transforming it from an intimidating space into a welcoming, student-centric hub. The execution of this strategy involved a mix of content pillars:
     </p>
     <ul style="max-width: none; margin-top: 10px;">
       <li>
-        <strong>Community Engagement:</strong> One way that our team engaged the Salem community was by bringing the team mascot and promotional items to community events, such as the local "Super Hero Run". Another way we engaged the community was by getting fans involved in our between-inning entertainment. Many parents and their kids were very excited to be selected for our between-inning games, like "The Dizzy Bat Race", and these long-lasting memories will leave a positive impression when they think about the Marion Berries brand.
+        <strong>Humanizing the Brand:</strong> To overcome student hesitation, I prioritized content that highlighted the people behind the services. By featuring our <strong>Peer Career Advisors</strong> in fun, relatable social content, we were able to build trust with the student body, showing them that the CPP is staffed by approachable peers ready to help, rather than just administrators.
       </li>
       <li>
-        <strong>Unique Game Day Features:</strong> Making each game day unique from the last was a challenge, but absolutely necessary to make sure that the fans had something fresh to look forward to at every home game. Examples of unique game day features that I recommended and implemented include a 4th of July Hot Dog Eating Contest (to make up for our lack of fireworks) and a 50/50 fundraising raffle, where 50% of the proceeds were donated to the Providence Cancer Institute in collaboration with Los Lobos Track Club.
+        <strong>Targeted Event Marketing:</strong> I developed specific promotional campaigns for key events to ensure diverse student attendance. This included designing graphics and messaging for specialized workshops like the <strong>LatinX Entrepreneurship Workshop</strong> and the <strong>Athlete ProConnect</strong>, ensuring these opportunities reached their specific target demographics effectively.
       </li>
       <li>
-        <strong>Social Media:</strong> As a new baseball team in this market, we made it a priority to build trust with our followers, which included fans, (prospective) players, sponsors, and the colleges which send their athletes to the Berries to play summer ball. My intern cohort made a wide range of content for the Berries' socials, including game day posts; reels to highlight special upcoming promotions; and specific reels for our local partners.
+        <strong>Incentivized Engagement:</strong> To rapidly grow our digital footprint, I implemented promotional strategies such as a <strong>gift card giveaway</strong>. This campaign was a tangible success, directly resulting in a <strong>20% increase in Instagram followers</strong>. These efforts served a dual purpose: boosting our metrics and getting WOU students to follow the CPP's socials to stay up-to-date about its career events and services.
       </li>
     </ul>
   </div> 
@@ -176,14 +177,15 @@ toc: false
     <h2>Tools Used</h2> 
     <ul style="max-width: none;"> 
       <li>
-         <strong>Creative:</strong> <strong>Canva</strong> was used heavily for graphics, photo, and video editing, as it was easy to collaborate on between myself, my intern cohort, and other front office staff.
+         <strong>Creative Design:</strong> I utilized <strong>Adobe Creative Cloud</strong> and <strong>Canva</strong> to design clean looking flyers, social media graphics, and digital signage that aligned with WOU and WOU CPP branding while appealing to a Gen Z audience.
       </li>
       <li style="margin-top: 10px;">
-        <strong>Execution:</strong> <strong>Meta Business Suite (Facebook/Instagram)</strong> was used to schedule and send out a strong majority of our social media content.
+        <strong>Social Management:</strong> <strong>Meta Business Suite</strong> was essential for scheduling posts across Instagram and Facebook, analyzing engagement data, and managing our digital community efficiently.
       </li> 
+      <li style="margin-top: 10px;">
+        <strong>Collaboration:</strong> <strong>Google Suite</strong> facilitated seamless collaboration with the CPP staff and Peer Career Advisors to coordinate event calendars and approval workflows.
+      </li>
     </ul>
   </div> 
-
-</div>
 
 </div>
