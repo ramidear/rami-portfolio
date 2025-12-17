@@ -193,4 +193,37 @@ toc: false
   }
 </script>
 
-<div class="grid grid-cols-2"> <div class="card"> <h2>Strategy</h2> <p>My role involved designing <strong>Instagram Reels</strong> and writing <strong>Radio Ad Scripts</strong>. The data suggests that <em>In-Game Events</em> and <em>Social Media</em> outperformed traditional Radio spots.</p> </div> <div class="card"> <h2>Tools Used</h2> <ul> <li><strong>Data Analysis:</strong> JASP & Tableau</li> <li><strong>Creative:</strong> Adobe CC & Canva</li> <li><strong>Execution:</strong> Meta Business Suite</li> </ul> </div> </div>
+<div class="grid grid-rows-2"> 
+  
+  <div class="card"> 
+    <h2>Strategy</h2> 
+    <p style="max-width: none;">During this internship, I internalized the strategy and philosphies set by the Marion Berries front office, which was to <strong>positively impact the City of Salem and its residents</strong> by offering affordable family fun which leaves them with memories to last them a lifetime. The execution of this strategy involved a mix of activities, such as:
+    </p>
+    <ul style="max-width: none; margin-top: 10px;">
+      <li>
+        <strong>Community Engagement:</strong> One way that our team engaged the Salem community was by bringing the team mascot and promotional items to community events, such as the local "Super Hero Run". Another way we engaged the community was by getting fans involved in our between-inning entertainment. Many parents and their kids were very excited to be selected for our between-inning games, like "The Dizzy Bat Race", and these long-lasting memories will leave a positive impression when they think about the Marion Berries brand.
+      </li>
+      <li>
+        <strong>Unique Game Day Features:</strong> Making each game day unique from the last was a challenge, but absolutely necessary to make sure that the fans had something fresh to look forward to at every home game. Examples of unique game day features that I recommended and implemented include a 4th of July Hot Dog Eating Contest (to make up for our lack of fireworks) and a 50/50 fundraising raffle, where 50% of the proceeds were donated to the Providence Cancer Institute in collaboration with Los Lobos Track Club.
+      </li>
+      <li>
+        <strong>Social Media:</strong> As a new baseball team in this market, we made it a priority to build trust with our followers, which included fans, (prospective) players, sponsors, and the colleges which send their athletes to the Berries to play summer ball. My intern cohort made a wide range of content for the Berries' socials, including game day posts; reels to highlight special upcoming promotions; and specific reels for our local partners.
+      </li>
+    </ul>
+  </div> 
+
+  <div class="card"> 
+    <h2>Tools Used</h2> 
+    <ul style="max-width: none;"> 
+      <li>
+         <strong>Creative:</strong> <strong>Canva</strong> was used heavily for graphics, photo, and video editing, as it was easy to collaborate on between myself, my intern cohort, and other front office staff.
+      </li>
+      <li style="margin-top: 10px;">
+        <strong>Execution:</strong> <strong>Meta Business Suite (Facebook/Instagram)</strong> was used to schedule and send out a strong majority of our social media content.
+      </li> 
+    </ul>
+  </div> 
+
+</div>
+
+</div>
