@@ -11,7 +11,7 @@ toc: false
   </h1>
 
   <p style="font-size: 1.15rem; line-height: 1.6; max-width: none;">
-    During my summer as a Promotions Intern with the Marion Berries Baseball team, I contributed to activities which established a strong relationship with the team and Salem residents in its 2025 inaugural season. Some of these activities include <strong>the planning and execution of between-inning entertainment</strong>, <strong>developing and managing game-day activations to increase foot traffic</strong>, and <strong>the management of team social media accounts to positively engage and update the team's fans and sponsors</strong>.
+    During my summer as a Promotions Intern with the Marion Berries Baseball team, I contributed to activities which established a strong relationship with the team and Salem residents in its 2025 inaugural season. Some of these activities include <strong>the planning and execution of between-inning entertainment</strong>, <strong>developing and leading game-day activations to increase foot traffic</strong>, and <strong>the management of team social media accounts to positively engage and update the team's fans and sponsors</strong>.
   </p>
 
 </div>
@@ -105,8 +105,43 @@ toc: false
 <div class="carousel-container">
 
   <div class="carousel-slide active">
-    <img src="I68A5633.jpg" alt="Close Up 50/50 Raffle">
-    <div class="caption-text">50/50 Raffle Signage at the Marion Berries Baseball "Strikeout Cancer Night"</div>
+    <img src="IMG_1664.jpg" alt="Pizza in Your Seatza">
+    <div class="caption-text">"Pizza in Your Seatza" Photo Credit: Sauce Studio and Design</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_1874.jpg" alt="Dizzy Bat Race">
+    <div class="caption-text">"Dizzy Bat Race" Photo Credit: Sauce Studio and Design</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="I68A4654.png" alt="Trick or Treat Night">
+    <div class="caption-text">Dressing as Leroy the on-field MC, for "Trick or Treat Night"</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_3699.jpeg" alt="Hot Dog Eating Contest">
+    <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_3702.jpeg" alt="Hot Dog Eating Contest">
+    <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_3709.jpeg" alt="Hot Dog Eating Contest">
+    <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_3713.jpeg" alt="Hot Dog Eating Contest">
+    <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
+  </div>
+
+  <div class="carousel-slide">
+    <img src="IMG_3738.jpeg" alt="Hot Dog Eating Contest">
+    <div class="caption-text">Our 4th of July Hot Dog Eating COntest</div>
   </div>
 
   <div class="carousel-slide">
@@ -115,43 +150,18 @@ toc: false
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_5746.png" alt="Team HTC Finish">
-    <div class="caption-text">Our 2025 Hood to Coast Team at the Providence #FINISHCANCER VIP Section</div>
+    <img src="I Want You - Story.png" alt="Hot Dog Eating Competition Call for Competitors">
+    <div class="caption-text">Hot Dog Eating Competition Call for Competitors</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_1753.jpeg" alt="Northwest Primary Care Van Sponsor">
-    <div class="caption-text">Northwest Primary Care Van Sponsorship</div>
+    <img src="Copy of I Want You - Feed.png" alt="Hot Dog Eating Competition Event Details">
+    <div class="caption-text">Hot Dog Eating Competition Event Details</div>
   </div>
 
   <div class="carousel-slide">
-    <img src="IMG_1754.jpeg" alt="Cascade Stems Van Sponsor">
-    <div class="caption-text">Cascade Stems Van Sponsorship</div>
-  </div>
-
-  <div class="carousel-slide">
-    <img src="IMG_4781.PNG" alt="Van Sponsorship Catalog">
-    <div class="caption-text">Van Sponsorship Catalog</div>
-  </div>
-
-  <div class="carousel-slide">
-    <img src="IMG_5367.PNG" alt="Collaboration Uniforms with Eight Lane Running Company">
-    <div class="caption-text">Collaboration Uniforms with Eight Lane Running Company</div>
-  </div>
-
-  <div class="carousel-slide">
-    <img src="IMG_5700.PNG" alt="Our Fundraising Page">
-    <div class="caption-text">Our Fundraising Page</div>
-  </div>
-
-  <div class="carousel-slide">
-    <img src="IMG_5701.PNG" alt="My Personal Fundraising Page">
-    <div class="caption-text">My Personal Fundraising Page</div>
-  </div>
-
-  <div class="carousel-slide">
-    <img src="IMG_7954.jpeg" alt="HTC Photo Finish">
-    <div class="caption-text">Myself pointing to our club's name on the #FINISHCANCER fundraising team wall</div>
+    <img src="Instagram promotional posts.png" alt="One of the 50/50 Raffle Days">
+    <div class="caption-text">Promotional Post for one of our 50/50 Raffle Days</div>
   </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
