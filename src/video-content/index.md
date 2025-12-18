@@ -13,7 +13,7 @@ toc: false
   </p>
 </div>
 
-<div class="grid grid-cols-3" style="gap: 1rem;">
+<div class="grid grid-rows-3" style="gap: 1rem;">
 
   <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center;">
     <h3 style="margin-bottom: 0.5rem; text-align: center;">Marion Berries: Fan Engagement</h3>
