@@ -233,9 +233,6 @@ toc: false
         </ul>
       </div>
 
-    </div>
-  </div>
-
   <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center;">
     <h3 style="margin-bottom: 1rem; text-align: center;">Partner Interview</h3>
     
