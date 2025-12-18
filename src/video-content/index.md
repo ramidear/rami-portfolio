@@ -19,7 +19,7 @@ toc: false
     <h3 style="margin-bottom: 0.5rem; text-align: center;">Marion Berries: Fan Engagement</h3>
     
   <div style="width: 100%; aspect-ratio: 9/16; background: #222; display: flex; align-items: center; justify-content: center; border-radius: 8px; overflow: hidden; margin-bottom: 1rem;">
-      <p style="color: #888; font-size: 0.8rem;"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1268782704598898%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
+      <p style="color: #888; font-size: 0.8rem;"><iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F9601926089905742%2F&show_text=false&width=267&t=0" width="267" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe></p>
     </div> <p style="font-size: 0.9rem; color: #555;">
       <strong>Context:</strong> Promotional reel designed to highlight unique game-day features and drive ticket sales.
     </p>
