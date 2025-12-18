@@ -183,53 +183,75 @@ toc: false
   }
 </script>
 
-<div class="grid grid-cols-2"> 
-  
+<div class="grid grid-cols-3" style="gap: 1rem;">
+
+  <div style="grid-column: span 2;">
+    <div class="grid grid-cols-2" style="gap: 1rem;"> 
+      
   <div class="card"> 
-    <h2>Strategy</h2> 
-    <p style="max-width: none;">While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> 
-  </div> 
+        <h2>Strategy</h2> 
+        <p style="max-width: none;">While fundraising over $9,000 was a full-team effort, it was my responsibility to <strong>acquire local sponsorships and partnerships</strong> while <strong>coordinating with team members to help them fundraise successfully</strong>. Through <em>Cold-Emailing</em> and <em>Leveraging our Networks via Social Media</em>, our team was able to secure donations from various donors.</p> 
+      </div> 
 
   <div class="card"> 
-    <h2>Tools Used</h2> 
-    <ul style="max-width: none;"> 
-      <li>
-         <strong>Creative:</strong> <strong>Canva</strong> and <strong>Adobe Creative Cloud (Photoshop and Illustrator)</strong> were used often to create graphics used for social media, promotional materials, and mock-ups for uniforms and van door signage.
-      </li>
-      <li style="margin-top: 10px;">
-        <strong>Execution:</strong> <strong>Meta Business Suite (Facebook/Instagram)</strong> was used to communicate fundraising requests and updates with Los Lobos club members. These platforms were also used to promote the fundraiser itself and related events.
-      </li> 
-    </ul>
-  </div> 
+        <h2>Tools Used</h2> 
+        <ul style="max-width: none;"> 
+          <li>
+             <strong>Creative:</strong> <strong>Canva</strong> and <strong>Adobe Creative Cloud (Photoshop and Illustrator)</strong> were used often to create graphics used for social media, promotional materials, and mock-ups for uniforms and van door signage.
+          </li>
+          <li style="margin-top: 10px;">
+            <strong>Execution:</strong> <strong>Meta Business Suite (Facebook/Instagram)</strong> was used to communicate fundraising requests and updates with Los Lobos club members. These platforms were also used to promote the fundraiser itself and related events.
+          </li> 
+        </ul>
+      </div> 
 
   <div class="card">
-    <h2>Van Door Sponsors</h2>
-    <p style="max-width: none;">
-      <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team).
-    </p>
+        <h2>Van Door Sponsors</h2>
+        <p style="max-width: none;">
+          <strong>Cascade Stems</strong> and <strong>Northwest Primary Care</strong> were two companies who purchased Van Door signage, which we featured on our two team vans which drove along the whole 196-mile Hood to Coast course from Mount Hood to Seaside, Oregon. This activation put these two companies in front of the eyes of over 1,000 Hood to Coast teams (8-12 people per team) and their volunteers (about 3 per team).
+        </p>
+      </div>
+
+  <div class="card">
+        <h2>Partners</h2>
+        <p style="max-width: none;">
+          <strong>Anytime Fitness Independence</strong>, <strong>Eight Lane Running Company</strong>, <strong>Marion Berries Baseball</strong>, and <strong>REVOLVR Menswear</strong> were drawn to our cause and were incredibly helpful in achieving our mission. 
+        </p>
+        <ul style="max-width: none; margin-top: 10px;">
+          <li>
+            <strong>Anytime Fitness</strong> took the time to <a href="https://www.facebook.com/reel/737930685664997" target="_blank">interview me about my club and the #FINISHCANCER campaign</a> to blast our fundraiser on their socials.
+          </li>
+          <li>
+            <strong>Eight Lane Running Company</strong> produced our uniforms at a deep discount, so costs saved could go directly to the fundraiser.
+          </li>
+          <li>
+            <strong>Marion Berries Baseball</strong> hosted three 50/50 fundraising raffles at their games, bringing in nearly <strong>$800</strong>.
+          </li>
+          <li>
+            <strong>REVOLVR Menswear</strong> donated a $75 Gift Card for us to raffle off, generating another <strong>$400</strong>.
+          </li>
+        </ul>
+      </div>
+
+    </div>
   </div>
 
-  <div class="card">
-    <h2>Partners</h2>
-    <p style="max-width: none;">
-      <strong>Anytime Fitness Independence</strong>, <strong>Eight Lane Running Company</strong>, <strong>Marion Berries Baseball</strong>, and <strong>REVOLVR Menswear</strong> were drawn to our cause and were incredibly helpful in achieving our mission. 
+  <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center;">
+    <h3 style="margin-bottom: 1rem; text-align: center;">Partner Interview</h3>
+    
+  <blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/reel/DMGreOWhlSm/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+      <div style="padding:16px;"> 
+        <a href="https://www.instagram.com/reel/DMGreOWhlSm/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">
+          View this post on Instagram
+        </a>
+      </div>
+    </blockquote>
+
+  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+      <strong>Context:</strong> Discussing the mission of Los Lobos and our #FINISHCANCER campaign with Anytime Fitness Independence.
     </p>
-    <ul style="max-width: none; margin-top: 10px;">
-      <li>
-        <strong>Anytime Fitness</strong> took the time to <a href="https://www.facebook.com/reel/737930685664997" target="_blank">interview me about my club and the #FINISHCANCER campaign</a> to blast our fundraiser on their socials.
-      </li>
-      <li>
-        <strong>Eight Lane Running Company</strong> produced our uniforms at a deep discount, so costs saved could go directly to the fundraiser.
-      </li>
-      <li>
-        <strong>Marion Berries Baseball</strong> hosted three 50/50 fundraising raffles at their games, bringing in nearly <strong>$800</strong>.
-      </li>
-      <li>
-        <strong>REVOLVR Menswear</strong> donated a $75 Gift Card for us to raffle off, generating another <strong>$400</strong>.
-      </li>
-    </ul>
   </div>
 
 </div>
 
-</div>
+<script async src="https://www.instagram.com/embed.js"></script>
