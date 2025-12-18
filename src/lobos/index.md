@@ -247,7 +247,7 @@ toc: false
       </div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f2f2f2; margin-top: 1rem;">
       <strong>Context:</strong> Discussing the mission of Los Lobos and our #FINISHCANCER campaign with Anytime Fitness Independence.
     </p>
   </div>
