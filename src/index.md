@@ -46,9 +46,9 @@ theme: dashboard
   }
 </style>
 
-<div style="background: linear-gradient(0deg, #ffffffff 0%, #6d0c0cff 100%); padding: 4rem 2rem; border-radius: 8px; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center;">
+<div style="background: linear-gradient(180deg, #6d0c0cff 0%, #1a1a1a 100%); padding: 4rem 2rem; display: flex; flex-direction: column; align-items: center; text-align: center; border-bottom: 1px solid #404040;">
   <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Marketing to Create and Build Relationships</h1>
-  <p style="font-size: 1.5rem; color: #000000ff; max-width: 800px; margin: 0 auto;">
+  <p style="font-size: 1.5rem; color: #f0f0f0; max-width: 800px; margin: 0 auto;">
     An MBA Candidate at Willamette University using marketing and promotional techniques to create, develop, and sustain customer relationships. 
   </p>
 </div>
