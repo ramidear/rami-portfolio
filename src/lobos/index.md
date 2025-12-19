@@ -143,6 +143,21 @@ toc: false
   .card {
   padding: -1.5rem !important; /* Default is often larger */
 }
+
+/* Button Style for direct links */
+  .ig-button {
+    display: inline-block;
+    margin-top: 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #E1306C; /* Instagram Pink/Red */
+    color: white !important;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    transition: opacity 0.2s;
+  }
+  .ig-button:hover { opacity: 0.8; }
 </style>
 
 <div class="carousel-container">
