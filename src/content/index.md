@@ -4,6 +4,49 @@ title: Media Content & Campaigns
 toc: false
 ---
 
+<style>
+  /* FORCE DARK MODE PALETTE */
+  :root {
+    /* Backgrounds */
+    --theme-background: #1a1a1a !important;      /* Dark Charcoal for main background */
+    --theme-background-alt: #262626 !important;  /* Slightly lighter for cards */
+    
+    /* Text */
+    --theme-foreground: #e0e0e0 !important;      /* Off-white for readability */
+    --theme-foreground-muted: #a0a0a0 !important; /* Grey for secondary text */
+    
+    /* Borders */
+    --theme-border: #404040 !important;
+  }
+
+  /* Apply the backgrounds */
+  body {
+    background-color: var(--theme-background);
+    color: var(--theme-foreground);
+  }
+
+  /* Force Cards to stand out against the background */
+  .card {
+    background-color: var(--theme-background-alt) !important;
+    border: 1px solid var(--theme-border);
+    color: var(--theme-foreground) !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Adds depth */
+  }
+
+  /* Make sure headings are bright */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+  }
+
+  /* Fix Links to be visible on dark background */
+  a {
+    color: #4da6ff; /* A nice accessible blue */
+  }
+  a:hover {
+    color: #80c1ff;
+  }
+</style>
+
 <div style="width: 100%; max-width: 100%; margin-bottom: 2rem;">
   <h1 style="font-size: 2.5rem; margin-bottom: 1rem; line-height: 1.1;">
     Social Media & Video Content

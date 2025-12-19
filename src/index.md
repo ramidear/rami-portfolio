@@ -3,6 +3,49 @@ toc: false
 theme: dashboard
 ---
 
+<style>
+  /* FORCE DARK MODE PALETTE */
+  :root {
+    /* Backgrounds */
+    --theme-background: #1a1a1a !important;      /* Dark Charcoal for main background */
+    --theme-background-alt: #262626 !important;  /* Slightly lighter for cards */
+    
+    /* Text */
+    --theme-foreground: #e0e0e0 !important;      /* Off-white for readability */
+    --theme-foreground-muted: #a0a0a0 !important; /* Grey for secondary text */
+    
+    /* Borders */
+    --theme-border: #404040 !important;
+  }
+
+  /* Apply the backgrounds */
+  body {
+    background-color: var(--theme-background);
+    color: var(--theme-foreground);
+  }
+
+  /* Force Cards to stand out against the background */
+  .card {
+    background-color: var(--theme-background-alt) !important;
+    border: 1px solid var(--theme-border);
+    color: var(--theme-foreground) !important;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Adds depth */
+  }
+
+  /* Make sure headings are bright */
+  h1, h2, h3, h4, h5, h6 {
+    color: #ffffff !important;
+  }
+
+  /* Fix Links to be visible on dark background */
+  a {
+    color: #4da6ff; /* A nice accessible blue */
+  }
+  a:hover {
+    color: #80c1ff;
+  }
+</style>
+
 <div style="background: linear-gradient(0deg, #ffffffff 0%, #6d0c0cff 100%); padding: 4rem 2rem; border-radius: 8px; margin-bottom: 2rem; display: flex; flex-direction: column; align-items: center; text-align: center;">
   <h1 style="font-size: 3rem; margin-bottom: 0.5rem;">Marketing to Create and Build Relationships</h1>
   <p style="font-size: 1.5rem; color: #000000ff; max-width: 800px; margin: 0 auto;">
