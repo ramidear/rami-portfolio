@@ -304,6 +304,9 @@ toc: false
         </a>
       </div>
     </blockquote>
+    <a href="https://www.instagram.com/reel/DMGreOWhlSm/" target="_blank" class="ig-button" style="display: inline-block; margin-top: 10px; padding: 8px 16px; background-color: #E1306C; color: white; border-radius: 4px; text-decoration: none; font-weight: bold;">
+  Watch on Instagram &#8599;
+</a>
 
   <p style="font-size: 0.9rem; color: #f2f2f2; margin-top: 1rem;">
       <strong>Context:</strong> Discussing the mission of Los Lobos and our #FINISHCANCER campaign with Anytime Fitness Independence.
