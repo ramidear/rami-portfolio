@@ -59,31 +59,31 @@ toc: false
     </blockquote>
 
   <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
-      <strong>Context:</strong> This reel was made to update fans in a light-hearted manner about the Berries' unforeseen switch in their home field for their inaugural season.
+      <strong>Context:</strong> An example of some graphics I have played with to announce previous "upcoming races" for Los Lobos.
     </p>
   </div>
 
   <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center;">
-    <h3 style="margin-bottom: 0.5rem; text-align: center;">WOU CPP: Making the CPP an Approachable Brand</h3>
+    <h3 style="margin-bottom: 0.5rem; text-align: center;">Graphic Design: Clackamas CC WXC</h3>
 
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C128lj9P1TH/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-       <div style="padding:16px;"> <a href="https://www.instagram.com/reel/C128lj9P1TH/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DRGd8nskUOr/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+       <div style="padding:16px;"> <a href="https://www.instagram.com/p/DRGd8nskUOr/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
   <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
-      <strong>Context:</strong> A commercial featuring students, made by students, that highlights the CPP's low "barrier to entry" and willingness to help out WOU students.
+      <strong>Context:</strong> To keep my creative muscles sharp, I continue to practice making graphics and visuals on my coaching account, which also serves the purpose of attracting prospective athletes to Clackamas CC.
     </p>
   </div>
 
   <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center;">
-    <h3 style="margin-bottom: 0.5rem; text-align: center;">Promotional Highlights</h3>
+    <h3 style="margin-bottom: 0.5rem; text-align: center;">Graphic Design: Clackamas CC MXC</h3>
     
-  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/C66bRahOVrx/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
-      <div style="padding:16px;"> <a href="https://www.instagram.com/reel/C66bRahOVrx/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
+  <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DRGeO5FkaHC/?utm_source=ig_embed&amp;utm_campaign=loading;utm_campaign=loading" data-instgrm-version="14" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);">
+      <div style="padding:16px;"> <a href="https://www.instagram.com/p/DRGeO5FkaHC/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
   <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
-      <strong>Context:</strong> Highlight reel of community events and partnership activations.
+      <strong>Context:</strong> Just like the previous post, but for the Men's XC team instead of the Women's.
     </p>
   </div>
 
