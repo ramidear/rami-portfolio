@@ -17,7 +17,7 @@ toc: false
   a { color: #4da6ff; text-decoration: none; }
   a:hover { text-decoration: underline; }
   
-  /* Hero Gradient - Softened Red */
+  /* Hero Gradient */
   .hero {
     background: linear-gradient(180deg, #500000 0%, #1a1a1a 100%); 
     padding: 4rem 2rem; 
@@ -25,14 +25,17 @@ toc: false
     border-bottom: 1px solid var(--theme-border);
     margin-bottom: 2rem;
     border-radius: 8px;
+    display: flex;         /* Added flex to ensure centering alignment */
+    flex-direction: column;
+    align-items: center;
   }
 </style>
 
 <div class="hero">
-  <h1 style="font-size: 3rem; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+  <h1 style="font-size: 3rem; margin-bottom: 0.5rem; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); width: 100%; max-width: 100%; text-align: center;">
     Marketing to Create and Build Relationships
   </h1>
-  <p style="font-size: 1.25rem; color: #f0f0f0; max-width: 800px; margin: 0 auto; line-height: 1.6;">
+  <p style="font-size: 1.25rem; color: #f0f0f0; max-width: 800px; margin: 0 auto; line-height: 1.6; text-align: center;">
     An MBA Candidate at Willamette University using marketing and promotional techniques to create, develop, and sustain customer relationships.
   </p>
 </div>
@@ -88,8 +91,4 @@ toc: false
   </div>
 </div>
 
-<div style="text-align: right; margin-top: 3rem; border-top: 1px solid #404040; padding-top: 1rem;">
-  <a href="./marionberries" style="display: inline-block; padding: 0.75rem 1.5rem; background: #262626; border: 1px solid #404040; border-radius: 4px; color: white;">
-    Next Page: Marion Berries Baseball &#8594;
-  </a>
 </div>
