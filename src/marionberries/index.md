@@ -54,13 +54,13 @@ toc: false
 
 <div style="width: 100%; max-width: 100%; margin-bottom: 2rem;">
   
-  <h1 style="font-size: 2.5rem; margin-bottom: 1rem; line-height: 1.1;">
-    Marion Berries Baseball: Promotions and Marketing to Strenghten the Berries' Relationship with the City of Salem.
-  </h1>
-
-  <p style="font-size: 1.15rem; line-height: 1.6; max-width: none;">
-    During my summer as a Promotions Intern with the Marion Berries Baseball team, I contributed to activities which established a strong relationship with the team and Salem residents in its 2025 inaugural season. Some of these activities include <strong>the planning and execution of between-inning entertainment</strong>, <strong>developing and leading game-day activations to increase foot traffic</strong>, and <strong>the management of team social media accounts to positively engage and update the team's fans and sponsors</strong>.
+  <div style="margin-bottom: 2rem;">
+  <h1 style="font-size: 2.5rem; line-height: 1.1;">Marion Berries Baseball: Promotions & Marketing</h1>
+  <p style="font-size: 1.15rem; color: #f0f0f0; max-width: 800px;">
+    Strengthening the relationship between a new franchise and the City of Salem through community-first activations.
   </p>
+</div>
+
 
 </div>
 
@@ -254,13 +254,6 @@ toc: false
 </script>
 
 </style>
-
-<div style="margin-bottom: 2rem;">
-  <h1 style="font-size: 2.5rem; line-height: 1.1;">Marion Berries Baseball: Promotions & Marketing</h1>
-  <p style="font-size: 1.15rem; color: #a0a0a0; max-width: 800px;">
-    Strengthening the relationship between a new franchise and the City of Salem through community-first activations.
-  </p>
-</div>
 
 <div class="grid grid-cols-3" style="gap: 1rem;">
 
