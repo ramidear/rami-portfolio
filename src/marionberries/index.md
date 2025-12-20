@@ -305,7 +305,7 @@ toc: false
         </ul>
       </div>
   </div>
-
+</div>
   <div class="card" style="padding: 1rem; display: flex; flex-direction: column; align-items: center; height: fit-content;">
     <h3 style="margin-bottom: 1rem; text-align: center;">Fan Engagement Reel</h3>
     
