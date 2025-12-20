@@ -201,7 +201,7 @@ toc: false
   }
 </script>
 
-<div class="grid grid-rows-2"> 
+<div class="grid grid-cols-2"> 
   
   <div class="card"> 
     <h2>Strategy</h2> 
