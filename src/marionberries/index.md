@@ -317,7 +317,7 @@ toc: false
       </div>
     </blockquote>
 
-   <a href="https://www.instagram.com/reel/DKaoaIYBcjO/" target="_blank" class="ig-button">
+   <a href="https://www.instagram.com/marionberriesbaseball/reel/DKaoaIYBcjO/" target="_blank" class="ig-button">
       Watch on Instagram &#8599;
     </a>
 
