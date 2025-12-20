@@ -335,10 +335,4 @@ toc: false
 
 </div>
 
-<div class="nav-container">
-  <a href="./about" class="nav-button">&#8592; About Me</a>
-  
-  <a href="./lobos" class="nav-button">Los Lobos Track Club &#8594;</a>
-</div>
-
 <script async src="https://www.instagram.com/embed.js"></script>
