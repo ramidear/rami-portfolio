@@ -87,7 +87,7 @@ toc: false
   <h3>Resume</h3>
   <p>Click below for a downloadable copy of my resume.</p>
   <div style="margin-top: 1rem;">
-    <a href="./Rami_Dear_Resume.pdf" target="_blank" style="font-weight: bold;">Download PDF &#8594;</a>
+    <a href="https://drive.google.com/uc?export=download&id=1de4pRBNPEBFQ6SdV1vDhbdtK2BDojgf7" target="_blank" style="font-weight: bold;">Download PDF &#8594;</a>
   </div>
 </div>
 
