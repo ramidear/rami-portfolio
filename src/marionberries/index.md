@@ -48,8 +48,7 @@ toc: false
 
   <div style="grid-column: span 2;">
     <div class="grid grid-cols-2" style="gap: 1rem;"> 
-      
-      <div class="card"> 
+          <div class="card"> 
         <h2>The Strategy</h2> 
         <p>
            My goal was to internalize the front office's philosophy: <strong>positively impact the City of Salem</strong> by offering affordable family fun. 
@@ -59,7 +58,7 @@ toc: false
         </p>
       </div> 
 
-      <div class="card"> 
+  <div class="card"> 
         <h2>Tools Used</h2> 
         <ul style="padding-left: 1.2rem;"> 
           <li style="margin-bottom: 8px;">
@@ -71,7 +70,7 @@ toc: false
         </ul>
       </div> 
 
-      <div class="card">
+  <div class="card">
         <h2>Community Operations</h2>
         <p>
           Building trust required getting boots on the ground. I helped manage operational logistics that directly touched the fan experience:
@@ -83,7 +82,7 @@ toc: false
         </ul>
       </div>
 
-      <div class="card">
+  <div class="card">
         <h2>Game Day Features</h2>
         <p>
           To ensure repeat attendance, we treated every game as a unique event. I recommended and implemented specific features to keep the schedule fresh:
