@@ -38,8 +38,9 @@ toc: false
   <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing IG Follower Engagement</h2>
 </div>
 
-<div style="width: 100%; max-width: 900px; margin: 0 auto 2rem auto;">
-  <div class="card" style="padding: 0.5rem;">
+<div class="grid grid-cols-3" style="gap: 1rem; margin-bottom: 1rem;">
+  
+  <div class="card" style="grid-column: span 2; padding: 0.5rem;">
     <h3 style="text-align: center; margin-bottom: 0.5rem;">Campaign Gallery</h3>
     
    <div class="carousel-container">
@@ -48,7 +49,7 @@ toc: false
         <div class="caption-text">LatinX Entrepreneurship Workshop</div>
       </div>
 
-  <div class="carousel-slide">
+   <div class="carousel-slide">
         <img src="woucpp2.jpg" alt="Athlete ProConnect">
         <div class="caption-text">Athlete ProConnect Event</div>
       </div>
@@ -63,20 +64,21 @@ toc: false
         <div class="caption-text">Event Poster Design</div>
       </div>
 
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
   </div>
-</div>
 
-<div class="grid grid-cols-2" style="gap: 1rem;">
-
-  <div class="card" style="grid-column: span 2;">
+  <div class="card" style="display: flex; flex-direction: column; justify-content: center;">
     <h2>The Objective</h2>
     <p>
       Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
     </p>
   </div>
+
+</div>
+
+<div class="grid grid-cols-2" style="gap: 1rem;">
 
   <div class="card">
     <h3>Humanizing the Brand</h3>
