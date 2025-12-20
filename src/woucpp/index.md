@@ -38,80 +38,74 @@ toc: false
   <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing IG Follower Engagement</h2>
 </div>
 
-<div class="grid grid-cols-3" style="gap: 1rem;">
-
-  <div style="grid-column: span 2;">
-    <div class="grid grid-cols-2" style="gap: 1rem;">
-      
-  <div class="card" style="grid-column: span 2;">
-        <h2>The Objective</h2>
-        <p>
-          Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
-        </p>
+<div style="width: 100%; max-width: 900px; margin: 0 auto 2rem auto;">
+  <div class="card" style="padding: 0.5rem;">
+    <h3 style="text-align: center; margin-bottom: 0.5rem;">Campaign Gallery</h3>
+    
+   <div class="carousel-container">
+      <div class="carousel-slide active">
+        <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
+        <div class="caption-text">LatinX Entrepreneurship Workshop</div>
       </div>
-
-  <div class="card">
-        <h3>Humanizing the Brand</h3>
-        <p>
-          I prioritized content that highlighted the people behind the services. By featuring our <strong>Peer Career Advisors</strong> in fun, relatable social content, we built trust by showing students that the CPP is staffed by approachable peers.
-        </p>
-      </div>
-
-   <div class="card">
-        <h3>Targeted Marketing</h3>
-        <p>
-          I designed specific campaigns for key events to ensure diverse attendance. This included graphics for the <strong>LatinX Entrepreneurship Workshop</strong> and <strong>Athlete ProConnect</strong>, targeting specific student demographics.
-        </p>
-      </div>
-
-   <div class="card">
-        <h3>Incentivized Growth</h3>
-        <p>
-          To rapidly grow our digital footprint, I implemented <strong>gift card giveaways</strong>. This campaign was a tangible success, resulting in a <strong>20% increase in Instagram followers</strong>.
-        </p>
-      </div>
-
-   <div class="card">
-        <h3>Tools Used</h3>
-        <ul style="padding-left: 1.2rem; margin-top: 0.5rem;">
-          <li><strong>Adobe Creative Cloud & Canva:</strong> For professional-grade flyers and social graphics.</li>
-          <li><strong>Meta Business Suite:</strong> For analytics and scheduling.</li>
-          <li><strong>Google Suite:</strong> For collaboration with staff.</li>
-        </ul>
-      </div>
-
-  </div>
-  </div>
-
-  <div style="grid-column: span 1;">
-    <div class="card" style="padding: 0.5rem; height: fit-content;">
-      <h3 style="text-align: center; margin-bottom: 0.5rem;">Campaign Gallery</h3>
-      
-  <div class="carousel-container">
-        <div class="carousel-slide active">
-          <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
-          <div class="caption-text">LatinX Entrepreneurship Workshop</div>
-        </div>
-
-   <div class="carousel-slide">
-          <img src="woucpp2.jpg" alt="Athlete ProConnect">
-          <div class="caption-text">Athlete ProConnect Event</div>
-        </div>
-
-   <div class="carousel-slide">
-          <img src="woucpp3.jpg" alt="Gift Card Giveaway">
-          <div class="caption-text">Giveaway: +20% Follower Growth</div>
-        </div>
 
   <div class="carousel-slide">
-          <img src="woucpp4.jpg" alt="Poster">
-          <div class="caption-text">Event Poster Design</div>
-        </div>
+        <img src="woucpp2.jpg" alt="Athlete ProConnect">
+        <div class="caption-text">Athlete ProConnect Event</div>
+      </div>
+
+   <div class="carousel-slide">
+        <img src="woucpp3.jpg" alt="Gift Card Giveaway">
+        <div class="caption-text">Giveaway: +20% Follower Growth</div>
+      </div>
+
+  <div class="carousel-slide">
+        <img src="woucpp4.jpg" alt="Poster">
+        <div class="caption-text">Event Poster Design</div>
+      </div>
 
   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-        <a class="next" onclick="plusSlides(1)">&#10095;</a>
-   </div>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
+  </div>
+</div>
+
+<div class="grid grid-cols-2" style="gap: 1rem;">
+
+  <div class="card" style="grid-column: span 2;">
+    <h2>The Objective</h2>
+    <p>
+      Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Humanizing the Brand</h3>
+    <p>
+      I prioritized content that highlighted the people behind the services. By featuring our <strong>Peer Career Advisors</strong> in fun, relatable social content, we built trust by showing students that the CPP is staffed by approachable peers.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Targeted Marketing</h3>
+    <p>
+      I designed specific campaigns for key events to ensure diverse attendance. This included graphics for the <strong>LatinX Entrepreneurship Workshop</strong> and <strong>Athlete ProConnect</strong>, targeting specific student demographics.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Incentivized Growth</h3>
+    <p>
+      To rapidly grow our digital footprint, I implemented <strong>gift card giveaways</strong>. This campaign was a tangible success, resulting in a <strong>20% increase in Instagram followers</strong>.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Tools Used</h3>
+    <ul style="padding-left: 1.2rem; margin-top: 0.5rem;">
+      <li><strong>Adobe Creative Cloud & Canva:</strong> For professional-grade flyers and social graphics.</li>
+      <li><strong>Meta Business Suite:</strong> For analytics and scheduling.</li>
+      <li><strong>Google Suite:</strong> For collaboration with staff.</li>
+    </ul>
   </div>
 
 </div>
