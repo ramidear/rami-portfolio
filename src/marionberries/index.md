@@ -45,6 +45,11 @@ toc: false
   a:hover {
     color: #80c1ff;
   }
+
+  p, li {
+  max-width: 70ch; /* approx 70 characters wide */
+  line-height: 1.6; /* gives the text room to breathe */
+}
 </style>
 
 <div style="width: 100%; max-width: 100%; margin-bottom: 2rem;">
