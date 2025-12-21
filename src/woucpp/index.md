@@ -40,7 +40,15 @@ toc: false
 
 <div class="grid grid-cols-3" style="gap: 1rem; margin-bottom: 1rem;">
   
-  <div class="card" style="grid-column: span 2; padding: 0.5rem;">
+ <div class="card" style="display: flex; flex-direction: column; justify-content: center;">
+    <h2>The Objective</h2>
+    <p>
+      Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
+    </p>
+  </div>
+  </div>
+
+  <div class="card" style="grid-column: span 3; padding: 0.5rem;">
     <h3 style="text-align: center; margin-bottom: 0.5rem;">Campaign Gallery</h3>
     
    <div class="carousel-container">
@@ -68,15 +76,6 @@ toc: false
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
   </div>
-
-  <div class="card" style="display: flex; flex-direction: column; justify-content: center;">
-    <h2>The Objective</h2>
-    <p>
-      Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
-    </p>
-  </div>
-
-</div>
 
 <div class="grid grid-cols-2" style="gap: 1rem;">
 
