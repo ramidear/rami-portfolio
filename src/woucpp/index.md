@@ -54,22 +54,22 @@ toc: false
       <div class="caption-text">LatinX Entrepreneurship Workshop</div>
     </div>
 
-    <div class="carousel-slide">
+   <div class="carousel-slide">
       <img src="woucpp2.jpg" alt="Athlete ProConnect">
       <div class="caption-text">Athlete ProConnect Event</div>
     </div>
 
-    <div class="carousel-slide">
+   <div class="carousel-slide">
       <img src="woucpp3.jpg" alt="Gift Card Giveaway">
       <div class="caption-text">Giveaway: +20% Follower Growth</div>
     </div>
 
-    <div class="carousel-slide">
+   <div class="carousel-slide">
       <img src="woucpp4.jpg" alt="Poster">
       <div class="caption-text">Event Poster Design</div>
     </div>
 
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
   </div>
 </div>
