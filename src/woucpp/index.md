@@ -38,44 +38,41 @@ toc: false
   <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing IG Follower Engagement</h2>
 </div>
 
-<div class="grid grid-cols-3" style="gap: 1rem; margin-bottom: 1rem;">
+<div class="card" style="margin-bottom: 1rem; display: flex; flex-direction: column; justify-content: center; padding: 1rem;">
+  <h2>The Objective</h2>
+  <p>
+    Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
+  </p>
+</div>
+
+<div class="card" style="margin-bottom: 1rem; padding: 0.5rem;">
+  <h3 style="text-align: center; margin-bottom: 0.5rem; display: block; width: 100%;">Campaign Gallery</h3>
   
- <div class="card" style="display: flex; flex-direction: column; justify-content: center;">
-    <h2>The Objective</h2>
-    <p>
-      Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
-    </p>
-  </div>
-  </div>
-
-  <div class="card" style="grid-column: span 3; padding: 0.5rem;">
-    <h3 style="text-align: center; margin-bottom: 0.5rem;">Campaign Gallery</h3>
-    
-   <div class="carousel-container">
-      <div class="carousel-slide active">
-        <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
-        <div class="caption-text">LatinX Entrepreneurship Workshop</div>
-      </div>
-
-   <div class="carousel-slide">
-        <img src="woucpp2.jpg" alt="Athlete ProConnect">
-        <div class="caption-text">Athlete ProConnect Event</div>
-      </div>
-
-   <div class="carousel-slide">
-        <img src="woucpp3.jpg" alt="Gift Card Giveaway">
-        <div class="caption-text">Giveaway: +20% Follower Growth</div>
-      </div>
-
-  <div class="carousel-slide">
-        <img src="woucpp4.jpg" alt="Poster">
-        <div class="caption-text">Event Poster Design</div>
-      </div>
-
-   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  <div class="carousel-container">
+    <div class="carousel-slide active">
+      <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
+      <div class="caption-text">LatinX Entrepreneurship Workshop</div>
     </div>
+
+    <div class="carousel-slide">
+      <img src="woucpp2.jpg" alt="Athlete ProConnect">
+      <div class="caption-text">Athlete ProConnect Event</div>
+    </div>
+
+    <div class="carousel-slide">
+      <img src="woucpp3.jpg" alt="Gift Card Giveaway">
+      <div class="caption-text">Giveaway: +20% Follower Growth</div>
+    </div>
+
+    <div class="carousel-slide">
+      <img src="woucpp4.jpg" alt="Poster">
+      <div class="caption-text">Event Poster Design</div>
+    </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
   </div>
+</div>
 
 <div class="grid grid-cols-2" style="gap: 1rem;">
 
@@ -105,25 +102,3 @@ toc: false
     <ul style="padding-left: 1.2rem; margin-top: 0.5rem;">
       <li><strong>Adobe Creative Cloud & Canva:</strong> For professional-grade flyers and social graphics.</li>
       <li><strong>Meta Business Suite:</strong> For analytics and scheduling.</li>
-      <li><strong>Google Suite:</strong> For collaboration with staff.</li>
-    </ul>
-  </div>
-
-</div>
-
-<script>
-  let slideIndex = 1;
-  function plusSlides(n) { showSlides(slideIndex += n); }
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("carousel-slide");
-    if (n > slides.length) {slideIndex = 1}    
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-      slides[i].classList.remove("active");
-    }
-    slides[slideIndex-1].style.display = "block";  
-    slides[slideIndex-1].classList.add("active");
-  }
-</script>
