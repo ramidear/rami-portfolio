@@ -38,15 +38,18 @@ toc: false
   <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing IG Follower Engagement</h2>
 </div>
 
-<div class="card" style="margin-bottom: 1rem; display: flex; flex-direction: column; justify-content: center; padding: 1rem;">
+<div class="card" style="margin-bottom: 1rem; padding: 1.5rem;">
   <h2>The Objective</h2>
-  <p>
+  <p style="max-width: none;">
     Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
   </p>
 </div>
 
 <div class="card" style="margin-bottom: 1rem; padding: 0.5rem;">
-  <h3 style="text-align: center; margin-bottom: 0.5rem; display: block; width: 100%;">Campaign Gallery</h3>
+  
+  <div style="width: 100%; display: flex; justify-content: center; margin-bottom: 0.5rem;">
+    <h3 style="margin: 0;">Campaign Gallery</h3>
+  </div>
   
   <div class="carousel-container">
     <div class="carousel-slide active">
@@ -54,7 +57,7 @@ toc: false
       <div class="caption-text">LatinX Entrepreneurship Workshop</div>
     </div>
 
-   <div class="carousel-slide">
+  <div class="carousel-slide">
       <img src="woucpp2.jpg" alt="Athlete ProConnect">
       <div class="caption-text">Athlete ProConnect Event</div>
     </div>
@@ -64,12 +67,12 @@ toc: false
       <div class="caption-text">Giveaway: +20% Follower Growth</div>
     </div>
 
-   <div class="carousel-slide">
+  <div class="carousel-slide">
       <img src="woucpp4.jpg" alt="Poster">
       <div class="caption-text">Event Poster Design</div>
     </div>
 
-  <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
   </div>
 </div>
@@ -102,3 +105,25 @@ toc: false
     <ul style="padding-left: 1.2rem; margin-top: 0.5rem;">
       <li><strong>Adobe Creative Cloud & Canva:</strong> For professional-grade flyers and social graphics.</li>
       <li><strong>Meta Business Suite:</strong> For analytics and scheduling.</li>
+      <li><strong>Google Suite:</strong> For collaboration with staff.</li>
+    </ul>
+  </div>
+
+</div>
+
+<script>
+  let slideIndex = 1;
+  function plusSlides(n) { showSlides(slideIndex += n); }
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("carousel-slide");
+    if (n > slides.length) {slideIndex = 1}    
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+      slides[i].classList.remove("active");
+    }
+    slides[slideIndex-1].style.display = "block";  
+    slides[slideIndex-1].classList.add("active");
+  }
+</script>
