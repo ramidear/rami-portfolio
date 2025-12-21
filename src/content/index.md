@@ -65,7 +65,7 @@ toc: false
       <div style="padding:16px;"> <a href="https://www.instagram.com/reel/DKaoaIYBcjO/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> This reel was made to update fans in a light-hearted manner about the Berries' unforeseen switch in their home field for their inaugural season.
     </p>
   </div>
@@ -77,7 +77,7 @@ toc: false
        <div style="padding:16px;"> <a href="https://www.instagram.com/reel/C128lj9P1TH/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> A commercial featuring students, made by students, that highlights the CPP's low "barrier to entry" and willingness to help out WOU students.
     </p>
   </div>
@@ -89,7 +89,7 @@ toc: false
       <div style="padding:16px;"> <a href="https://www.instagram.com/reel/DKstUSKi97W/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> Highlight reel of community events and partnership activations.
     </p>
   </div>
@@ -101,7 +101,7 @@ toc: false
       <div style="padding:16px;"> <a href="https://www.instagram.com/p/DDiGkBQvFpS/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> An example of some graphics I have played with to announce previous "upcoming races" for Los Lobos.
     </p>
   </div>
@@ -113,7 +113,7 @@ toc: false
        <div style="padding:16px;"> <a href="https://www.instagram.com/p/DRGd8nskUOr/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> To keep my creative muscles sharp, I continue to practice making graphics and visuals on my coaching account, which also serves the purpose of attracting prospective athletes to Clackamas CC.
     </p>
   </div>
@@ -125,7 +125,7 @@ toc: false
       <div style="padding:16px;"> <a href="https://www.instagram.com/p/DRGeO5FkaHC/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank">View this post on Instagram</a></div>
     </blockquote>
 
-  <p style="font-size: 0.9rem; color: #555; margin-top: 1rem;">
+  <p style="font-size: 0.9rem; color: #f0f0f0; margin-top: 1rem;">
       <strong>Context:</strong> Just like the previous post, but for the Men's XC team instead of the Women's.
     </p>
   </div>
