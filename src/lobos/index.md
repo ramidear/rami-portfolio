@@ -1,7 +1,8 @@
 ---
-theme: air
-title: Los Lobos Track Club
+theme: dashboard
 toc: false
+sidebar: false
+title: Los Lobos Track Club
 ---
 
 <link rel="stylesheet" href="../style.css">

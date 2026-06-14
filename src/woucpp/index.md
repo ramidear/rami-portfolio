@@ -1,7 +1,8 @@
 ---
-theme: air
-title: WOU Center for Professional Pathways
+theme: dashboard
 toc: false
+sidebar: false
+title: WOU Center for Professional Pathways
 ---
 
 <link rel="stylesheet" href="../style.css">

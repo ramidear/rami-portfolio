@@ -1,7 +1,8 @@
 ---
-theme: air
-title: Media Content & Campaigns
+theme: dashboard
 toc: false
+sidebar: false
+title: Media Content & Campaigns
 ---
 
 <link rel="stylesheet" href="../style.css">

@@ -1,7 +1,8 @@
 ---
-theme: air
-title: Marion Berries Baseball Club
+theme: dashboard
 toc: false
+sidebar: false
+title: Marion Berries Baseball Club
 ---
 
 <link rel="stylesheet" href="../style.css">
