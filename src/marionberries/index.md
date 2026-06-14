@@ -158,9 +158,6 @@ title: Marion Berries Baseball Club
       </div>
     </blockquote>
 
-   <a href="https://www.instagram.com/marionberriesbaseball/reel/DKaoaIYBcjO/" target="_blank" class="ig-button">
-      Watch on Instagram &#8599;
-    </a>
 
    <p style="font-size: 0.9rem; color: #aaa; margin-top: 1rem; text-align: center;">
       <strong>Highlight:</strong> A look at the unique game-day atmosphere we built at the ballpark.
