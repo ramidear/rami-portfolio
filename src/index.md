@@ -6,7 +6,7 @@ toc: false
 
 <link rel="stylesheet" href="./style.css">
 
-<<nav class="site-nav">
+<nav class="site-nav">
   <span class="nav-brand">Rami Dear</span>
   <a href="./">Home</a>
   <a href="./marionberries">Marion Berries</a>
