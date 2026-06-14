@@ -4,76 +4,60 @@ title: WOU Center for Professional Pathways
 toc: false
 ---
 
-<style>
-  :root {
-    --theme-background: #1a1a1a !important;
-    --theme-background-alt: #262626 !important;
-    --theme-foreground: #e0e0e0 !important;
-    --theme-border: #404040 !important;
-  }
-  body { background-color: var(--theme-background); color: var(--theme-foreground); }
-  .card { background-color: var(--theme-background-alt) !important; border: 1px solid var(--theme-border); color: var(--theme-foreground) !important; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); }
-  h1, h2, h3, h4, h5, h6 { color: #ffffff !important; }
-  p, li { line-height: 1.6; }
-  
-  /* CAROUSEL STYLES */
-  .carousel-container { position: relative; width: 100%; aspect-ratio: 16 / 9; overflow: hidden; border-radius: 8px; background-color: #222; }
-  .carousel-slide { display: none; width: 100%; height: 100%; position: relative; }
-  .carousel-slide.active { display: block; animation: fadeEffect 0.5s; }
-  .carousel-slide img { width: 100%; height: 100%; object-fit: contain; display: block; }
-  .caption-text { color: #f2f2f2; font-size: 14px; padding: 8px 12px; position: absolute; bottom: 0; width: 100%; text-align: center; background-color: rgba(0, 0, 0, 0.8); }
-  .prev, .next { cursor: pointer; position: absolute; top: 50%; margin-top: -22px; padding: 16px; color: white; font-weight: bold; font-size: 18px; transition: 0.6s ease; background-color: rgba(0,0,0,0.3); user-select: none; z-index: 2; }
-  .next { right: 0; border-radius: 3px 0 0 3px; }
-  .prev:hover, .next:hover { background-color: rgba(0,0,0,0.8); }
-  @keyframes fadeEffect { from {opacity: .4} to {opacity: 1} }
+<link rel="stylesheet" href="../style.css">
 
-  /* Nav Buttons */
-  .nav-container { display: flex; justify-content: space-between; align-items: center; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--theme-border); }
-  .nav-button { display: inline-block; padding: 0.75rem 1.5rem; background-color: var(--theme-background-alt); border: 1px solid var(--theme-border); color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; }
-  .nav-button:hover { background-color: #333; color: #4da6ff; border-color: #4da6ff; }
-</style>
+<nav class="site-nav">
+  <span class="nav-brand">Rami Dear</span>
+  <a href="../">Home</a>
+  <a href="../marionberries">Marion Berries</a>
+  <a href="../lobos">Los Lobos</a>
+  <a href="../woucpp">WOU CPP</a>
+  <a href="../content">Media</a>
+  <a href="../about">About</a>
+</nav>
 
 <div style="margin-bottom: 2rem;">
   <h1 style="font-size: 2.5rem; line-height: 1.1; margin-bottom: 0.5rem;">WOU Center for Professional Pathways</h1>
-  <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing IG Follower Engagement</h2>
+  <h2 style="font-size: 1.5rem; color: #a0a0a0; font-weight: normal; margin-top: 0;">Incentivizing Instagram Follower Engagement</h2>
 </div>
 
-<div class="card" style="margin-bottom: 1rem; padding: 1.5rem;">
+<div class="card" style="margin-bottom: 1rem;">
   <h2>The Objective</h2>
   <p style="max-width: none;">
     Many students were aware of the CPP but hesitant to visit. My primary goal was to <strong>demystify the office</strong>, transforming it from an intimidating administrative space into a welcoming, student-centric hub.
   </p>
 </div>
 
-<div class="card" style="margin-bottom: 1rem; padding: 0.5rem;">
-  
+<div class="card" style="margin-bottom: 1rem;">
   <div style="width: 100%; display: flex; justify-content: center; margin-bottom: 0.5rem;">
     <h3 style="margin: 0;">Campaign Gallery</h3>
   </div>
-  
-  <div class="carousel-container">
-    <div class="carousel-slide active">
-      <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Event">
+
+  <div class="carousel-container" tabindex="0" aria-label="WOU CPP campaign photo gallery">
+
+   <div class="carousel-slide active">
+      <img src="woucpp1.jpg" alt="LatinX Entrepreneurship Workshop event graphic">
       <div class="caption-text">LatinX Entrepreneurship Workshop</div>
     </div>
 
-  <div class="carousel-slide">
-      <img src="woucpp2.jpg" alt="Athlete ProConnect">
+   <div class="carousel-slide">
+      <img src="woucpp2.jpg" alt="Athlete ProConnect event graphic">
       <div class="caption-text">Athlete ProConnect Event</div>
     </div>
 
    <div class="carousel-slide">
-      <img src="woucpp3.jpg" alt="Gift Card Giveaway">
+      <img src="woucpp3.jpg" alt="Gift card giveaway post that drove 20% follower growth">
       <div class="caption-text">Giveaway: +20% Follower Growth</div>
     </div>
 
-  <div class="carousel-slide">
-      <img src="woucpp4.jpg" alt="Poster">
+   <div class="carousel-slide">
+      <img src="woucpp4.jpg" alt="Event poster design">
       <div class="caption-text">Event Poster Design</div>
     </div>
 
-   <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+   <button class="carousel-btn prev" aria-label="Previous slide">&#10094;</button>
+    <button class="carousel-btn next" aria-label="Next slide">&#10095;</button>
+
   </div>
 </div>
 
@@ -103,7 +87,7 @@ toc: false
   <div class="card">
     <h3>Tools Used</h3>
     <ul style="padding-left: 1.2rem; margin-top: 0.5rem;">
-      <li><strong>Adobe Creative Cloud & Canva:</strong> For professional-grade flyers and social graphics.</li>
+      <li><strong>Adobe Creative Cloud &amp; Canva:</strong> For professional-grade flyers and social graphics.</li>
       <li><strong>Meta Business Suite:</strong> For analytics and scheduling.</li>
       <li><strong>Google Suite:</strong> For collaboration with staff.</li>
     </ul>
@@ -111,19 +95,4 @@ toc: false
 
 </div>
 
-<script>
-  let slideIndex = 1;
-  function plusSlides(n) { showSlides(slideIndex += n); }
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("carousel-slide");
-    if (n > slides.length) {slideIndex = 1}    
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
-      slides[i].classList.remove("active");
-    }
-    slides[slideIndex-1].style.display = "block";  
-    slides[slideIndex-1].classList.add("active");
-  }
-</script>
+<script src="../carousel.js"></script>

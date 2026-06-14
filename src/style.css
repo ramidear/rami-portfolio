@@ -1,0 +1,229 @@
+/* ============================================================
+   SHARED PORTFOLIO STYLES
+   Import this in every page via Observable Framework's
+   built-in CSS import or a <link> tag.
+   ============================================================ */
+
+/* ── Tokens ─────────────────────────────────────────────── */
+:root {
+  --bg:          #1a1a1a;
+  --bg-card:     #262626;
+  --fg:          #e0e0e0;
+  --fg-muted:    #a0a0a0;
+  --border:      #404040;
+  --brand-red:   #500000;   /* unified across all hero gradients */
+  --link:        #4da6ff;
+  --link-hover:  #80c1ff;
+  --shadow:      0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* ── Base ────────────────────────────────────────────────── */
+body {
+  background-color: var(--bg);
+  color: var(--fg);
+}
+
+h1, h2, h3, h4, h5, h6 { color: #ffffff; }
+
+p, li {
+  line-height: 1.6;
+  max-width: 70ch;
+}
+
+a             { color: var(--link); text-decoration: none; }
+a:hover       { color: var(--link-hover); text-decoration: underline; }
+
+/* ── Cards ───────────────────────────────────────────────── */
+.card {
+  background-color: var(--bg-card) !important;
+  border: 1px solid var(--border);
+  color: var(--fg) !important;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: 1.5rem;   /* consistent inner spacing */
+}
+
+/* ── Hero ────────────────────────────────────────────────── */
+.hero {
+  background: linear-gradient(180deg, var(--brand-red) 0%, var(--bg) 100%);
+  padding: 4rem 2rem;
+  text-align: center;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* ── Site-wide Navigation ────────────────────────────────── */
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background-color: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 2rem;
+  border-radius: 8px;
+}
+
+.site-nav a {
+  color: var(--fg-muted);
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  transition: color 0.2s, background 0.2s;
+}
+
+.site-nav a:hover,
+.site-nav a.active {
+  color: #ffffff;
+  background-color: rgba(255,255,255,0.08);
+  text-decoration: none;
+}
+
+.site-nav .nav-brand {
+  font-weight: 700;
+  color: #ffffff;
+  margin-right: auto;
+}
+
+/* ── Carousel ────────────────────────────────────────────── */
+.carousel-container {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  border-radius: 8px;
+  background-color: #222;
+}
+
+.carousel-slide {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.carousel-slide.active {
+  display: block;
+  animation: fadeEffect 0.5s;
+}
+
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
+}
+
+.caption-text {
+  color: #f2f2f2;
+  font-size: 14px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/* Carousel nav — proper <button> elements */
+.carousel-btn {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 1;
+  transition: background 0.3s ease;
+  background-color: rgba(0, 0, 0, 0.3);
+  border: none;
+  z-index: 2;
+  user-select: none;
+  border-radius: 0 3px 3px 0;
+}
+
+.carousel-btn.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.carousel-btn:hover,
+.carousel-btn:focus-visible {
+  background-color: rgba(0, 0, 0, 0.8);
+  outline: 2px solid var(--link);
+  outline-offset: 2px;
+}
+
+@keyframes fadeEffect {
+  from { opacity: 0.4; }
+  to   { opacity: 1;   }
+}
+
+/* ── Instagram embed button ──────────────────────────────── */
+.ig-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.5rem 1rem;
+  background-color: #E1306C;
+  color: white !important;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  transition: opacity 0.2s;
+}
+.ig-button:hover { opacity: 0.8; text-decoration: none; }
+
+/* ── Nav buttons (prev/next page) ────────────────────────── */
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.nav-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+
+.nav-button:hover {
+  background-color: #333;
+  color: var(--link);
+  border-color: var(--link);
+  text-decoration: none;
+}
+
+/* ── Responsive grid collapse ────────────────────────────── */
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  [style*="grid-column: span"] {
+    grid-column: span 1 !important;
+  }
+
+  .site-nav {
+    gap: 0.25rem;
+  }
+}
