@@ -1,6 +1,6 @@
 ---
 title: About Rami Dear
-theme: dashboard
+theme: air
 toc: false
 ---
 

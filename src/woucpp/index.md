@@ -1,5 +1,5 @@
 ---
-theme: dashboard
+theme: air
 title: WOU Center for Professional Pathways
 toc: false
 ---

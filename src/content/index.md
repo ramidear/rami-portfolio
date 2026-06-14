@@ -1,5 +1,5 @@
 ---
-theme: dashboard
+theme: air
 title: Media Content & Campaigns
 toc: false
 ---

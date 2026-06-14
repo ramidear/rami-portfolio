@@ -1,6 +1,6 @@
 ---
 title: Home
-theme: dashboard
+theme: air
 toc: false
 ---
 

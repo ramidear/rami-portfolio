@@ -1,5 +1,5 @@
 ---
-theme: dashboard
+theme: air
 title: Marion Berries Baseball Club
 toc: false
 ---

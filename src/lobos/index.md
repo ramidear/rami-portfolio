@@ -1,5 +1,5 @@
 ---
-theme: dashboard
+theme: air
 title: Los Lobos Track Club
 toc: false
 ---
