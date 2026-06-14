@@ -44,6 +44,7 @@ toc: false
 <p style="font-size: 0.9rem; margin-top: 0.5rem;">
         <strong>Awards:</strong> Beta Gamma Sigma, Pi Alpha Alpha, and Atkinson Honors.
       </p>
+      
   <hr style="margin: 1rem 0; border: 0; border-top: 1px solid var(--border);">
 
   <h4 style="margin-bottom: 0;">Western Oregon University</h4>
