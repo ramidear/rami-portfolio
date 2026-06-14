@@ -22,7 +22,7 @@ toc: false
     MBA. Marketing Strategist. Collegiate Coach.
   </p>
   <div style="font-size: 1.1rem; margin-top: 1rem;">
-    <a href="https://www.linkedin.com/in/rami-dear-229657218/" target="_blank" style="color: #ffffff; text-decoration: underline;">LinkedIn &#8599;</a>
+    <a href="https://www.linkedin.com/in/rami-dear-229657218/" target="_blank" style="color: #ffffff; text-decoration: underline;">LinkedIn</a>
   </div>
 </div>
 
@@ -44,7 +44,7 @@ toc: false
 <p style="font-size: 0.9rem; margin-top: 0.5rem;">
         <strong>Awards:</strong> Beta Gamma Sigma, Pi Alpha Alpha, and Atkinson Honors.
       </p>
-      
+
   <hr style="margin: 1rem 0; border: 0; border-top: 1px solid var(--border);">
 
   <h4 style="margin-bottom: 0;">Western Oregon University</h4>
